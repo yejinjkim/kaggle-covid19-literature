@@ -1,9 +1,10 @@
 # kaggle-covid19-literature
 ## Task Details
-1. What do we know about vaccines and therapeutics? What has been published concerning research and development and evaluation efforts of vaccines and therapeutics?
+What do we know about vaccines and therapeutics? What has been published concerning research and development and evaluation efforts of vaccines and therapeutics?
 Specifically, we want to know what the literature reports about:
-Effectiveness of drugs being developed and tried to treat COVID-19 patients.
-Clinical and bench trials to investigate less common viral inhibitors against COVID-19 such as naproxen, clarithromycin, and minocyclinethat that may exert effects on viral replication.
+
+- Effectiveness of drugs being developed and tried to treat COVID-19 patients.
+--Clinical and bench trials to investigate less common viral inhibitors against COVID-19 such as naproxen, clarithromycin, and minocyclinethat that may exert effects on viral replication.
 
 Methods evaluating potential complication of Antibody-Dependent Enhancement (ADE) in vaccine recipients.
 
