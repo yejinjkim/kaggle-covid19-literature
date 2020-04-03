@@ -28,7 +28,7 @@
 ./question-answering/*sentence.pkl* #retrived sentence for each question. pd.Dataframe with columns=\['qid', 'sentence_sha', 'rank'\]
 ```
 
-5. Human expert validate each sentence (1 if valid; 0 if maybe; -1 if irrelevant)
+5. Human expert validate each sentence (Yimeng, Kendall). 1 if valid; 0 if maybe; -1 if irrelevant)
 ```
 ./human-correction/*code.ipynb* #qgrid visualization code
 
