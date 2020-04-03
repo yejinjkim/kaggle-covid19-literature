@@ -1,16 +1,25 @@
 # kaggle-covid19-literature
-
+```
 ./raw-data # the literature files provided from Kaggle
-./snorkel-pseudo-label/*keywords.csv* #keywords csv files for the 10 questions
-./snorkel-pseudo-label/*code.ipynb* #code for the pseudo label using Snorkel. 
-./snorkel-pseudo-label/*pseudo-label.pkl* # estimated pseudo label for each question. pd.Dataframe with columns=\['qid','sentence_sha', 'prob'\]
-./sentence-classification/*code.ipynb* #code for sentence classification to retreive relevant sentences to the question
-./sentence-classification/*sentence.pkl* # retrieved sentences for each question. pd.Dataframe with columns=\['qid','sentence_sha'\]
-./question-answering/*code.ipynb* #code for question answering
-./question-answering/*sentence.pkl* #retrived sentence for each question. pd.Dataframe with columns=\['qid', 'sentence_sha', 'rank'\]
-./human-correction/*code.ipynb* #qgrid visualization code
-./human-correction/*sentence.pkl* #human-valided sentence for each question. pd.Dataframe with columns=\['qid', 'sentence_sha', 'valid'\]
 
+./snorkel-pseudo-label/*keywords.csv* #keywords csv files for the 10 questions.
+
+./snorkel-pseudo-label/*code.ipynb* #code for the pseudo label using Snorkel. 
+
+./snorkel-pseudo-label/*pseudo-label.pkl* # estimated pseudo label for each question. pd.Dataframe with columns=\['qid','sentence_sha', 'prob'\]
+
+./sentence-classification/*code.ipynb* #code for sentence classification to retreive relevant sentences to the question
+
+./sentence-classification/*sentence.pkl* # retrieved sentences for each question. pd.Dataframe with columns=\['qid','sentence_sha'\]
+
+./question-answering/*code.ipynb* #code for question answering
+
+./question-answering/*sentence.pkl* #retrived sentence for each question. pd.Dataframe with columns=\['qid', 'sentence_sha', 'rank'\]
+
+./human-correction/*code.ipynb* #qgrid visualization code
+
+./human-correction/*sentence.pkl* #human-valided sentence for each question. pd.Dataframe with columns=\['qid', 'sentence_sha', 'valid'\]
+```
 
 
 ##google drive  https://drive.google.com/open?id=15IX5FUcb0if25J_0fZMJ-N3Ir3UkNQpK
