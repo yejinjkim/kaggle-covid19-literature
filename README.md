@@ -1,49 +1,40 @@
 # kaggle-covid19-literature
+
+1. Raw data
 ```
 ./raw-data # the literature files provided from Kaggle
+```
 
+2. Pseudo labelling with keywords and Snorkel (Kanglin)
+```
 ./snorkel-pseudo-label/*keywords.csv* #keywords csv files for the 10 questions.
 
 ./snorkel-pseudo-label/*code.ipynb* #code for the pseudo label using Snorkel. 
 
 ./snorkel-pseudo-label/*pseudo-label.pkl* # estimated pseudo label for each question. pd.Dataframe with columns=\['qid','sentence_sha', 'prob'\]
+```
+3. Retrieve relevant sentences (Kanglin, Yejin)
 
+```
 ./sentence-classification/*code.ipynb* #code for sentence classification to retreive relevant sentences to the question
 
 ./sentence-classification/*sentence.pkl* # retrieved sentences for each question. pd.Dataframe with columns=\['qid','sentence_sha'\]
+```
 
+4. Rank the most relevant sentence based on question (Kejing)
+```
 ./question-answering/*code.ipynb* #code for question answering
 
 ./question-answering/*sentence.pkl* #retrived sentence for each question. pd.Dataframe with columns=\['qid', 'sentence_sha', 'rank'\]
+```
 
+5. Human expert validate each sentence (1 if valid; 0 if maybe; -1 if irrelevant)
+```
 ./human-correction/*code.ipynb* #qgrid visualization code
 
 ./human-correction/*sentence.pkl* #human-valided sentence for each question. pd.Dataframe with columns=\['qid', 'sentence_sha', 'valid'\]
 ```
 
 
-##google drive  https://drive.google.com/open?id=15IX5FUcb0if25J_0fZMJ-N3Ir3UkNQpK
-
-## Task Details
-What do we know about vaccines and therapeutics? What has been published concerning research and development and evaluation efforts of vaccines and therapeutics?
-Specifically, we want to know what the literature reports about:
-
-- Effectiveness of drugs being developed and tried to treat COVID-19 patients.
---Clinical and bench trials to investigate less common viral inhibitors against COVID-19 such as naproxen, clarithromycin, and minocyclinethat that may exert effects on viral replication.
-
-- Methods evaluating potential complication of Antibody-Dependent Enhancement (ADE) in vaccine recipients.
-
-- Exploration of use of best animal models and their predictive value for a human vaccine.
-
-- Capabilities to discover a therapeutic (not vaccine) for the disease, and clinical effectiveness studies to discover therapeutics, to include antiviral agents.
-
-- Alternative models to aid decision makers in determining how to prioritize and distribute scarce, newly proven therapeutics as production ramps up. This could include identifying approaches for expanding production capacity to ensure equitable and timely distribution to populations in need.
-
-- Efforts targeted at a universal coronavirus vaccine.
-- Efforts to develop animal models and standardize challenge studies
-
-- Efforts to develop prophylaxis clinical studies and prioritize in healthcare workers
-
-- Approaches to evaluate risk for enhanced disease after vaccination
-
-- Assays to evaluate vaccine immune response and process development for vaccines, alongside suitable animal models [in conjunction with therapeutics]
+10 questions are listed in [here](https://docs.google.com/document/d/10B_VkqxDyjxjJWvS5C-q4V7p3c1F-HuLOxiu_vlWtb8/edit#)
+Shared file folder is [here](https://drive.google.com/open?id=15IX5FUcb0if25J_0fZMJ-N3Ir3UkNQpK)
