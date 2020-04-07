@@ -1,6 +1,6 @@
 # kaggle-covid19-literature
 
-[process](https://github.com/yejinjkim/kaggle-covid19-literature/blob/master/image%20(1).png)
+![Overview](https://github.com/yejinjkim/kaggle-covid19-literature/blob/master/image%20(1).png)
 1. Raw data
 ```
 ./raw-data # the literature files provided from Kaggle
