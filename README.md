@@ -5,7 +5,7 @@
 ./raw-data # the literature files provided from Kaggle
 ```
 
-2. Pseudo labelling with keywords and Snorkel (Kanglin)
+2. Pseudo labelling with keywords and Snorkel (Kanglin, Shana, Qian)
 ```
 ./snorkel-pseudo-label/*keywords.csv* #keywords csv files for the 10 questions.
 
@@ -21,7 +21,7 @@
 ./sentence-classification/*sentence.pkl* # retrieved sentences for each question. pd.Dataframe with columns=['qid','sentence_sha']
 ```
 
-4. Rank the most relevant sentence based on question (Kejing)
+4. Rank the most relevant sentence based on question (Kejing, Tongtong, Yan)
 ```
 ./question-answering/*code.ipynb* #code for question answering
 
