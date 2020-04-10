@@ -1,5 +1,9 @@
 # kaggle-covid19-literature
 
+Requirements
+pip install transformers
+
+
 ![Overview](https://github.com/yejinjkim/kaggle-covid19-literature/blob/master/image%20(1).png)
 1. Raw data
 ```
