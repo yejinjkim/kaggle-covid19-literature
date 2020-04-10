@@ -1,8 +1,10 @@
 # kaggle-covid19-literature
 
 Requirements
+```
+pip install tqdm boto3 requests regex sentencepiece sacremoses
 pip install transformers
-
+```
 
 ![Overview](https://github.com/yejinjkim/kaggle-covid19-literature/blob/master/image%20(1).png)
 1. Raw data
