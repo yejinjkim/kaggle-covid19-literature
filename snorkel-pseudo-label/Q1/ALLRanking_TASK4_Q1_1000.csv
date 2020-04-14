@@ -1,0 +1,1001 @@
+,pid,newpid,category,sent,newscore
+2,vbgf50os,190,drug,"Three anti-HIV drugs, ritonavir, lopinavir and darunavir, might have therapeutic effect on coronavirus disease 2019 (COVID-19).",0.8568238056861319
+195,hj675z1b,261,drug,"Using the same molecular insight, we selected two other anti-viral agents, Alovudine and AZT (an FDA approved HIV/AIDS drug) for evaluation as inhibitors of SARS-CoV RdRp.",0.8529841131809837
+62,8prn86g6,168,drug,"Here, using polymerase extension experiments, we have demonstrated that the active triphosphate form of Sofosbuvir (a key component of the FDA approved hepatitis C drug EPCLUSA), is incorporated by SARS-CoV-2 RdRp, and blocks further incorporation.",0.852545598847593
+171,r49ox9x9,2744,drug,"However, it was found that a mixture of two HIV-1 proteinase inhibitors, lopinavir and ritonavir, exhibited some signs of effectiveness against the SARS virus.",0.8522902070562324
+39,drrs2tc1,4862,drug,Mizoribine and ribavirin selectively inhibited replication of SARS-CoV.,0.8522776474740774
+5,5lzzobl3,18950,drug,Chloroquine is a clinically approved drug effective against malaria.,0.8519411601129978
+102,f6muhf3d,164,drug,"Among these, the antivirals ledipasvir or velpatasvir are particularly attractive as therapeutics to combat the new coronavirus with minimal side effects, commonly fatigue and headache.",0.851166487619996
+176,8prn86g6,169,drug,"Using the same molecular insight, we selected the active triphosphate forms of three other anti-viral agents, Alovudine, AZT (an FDA approved HIV/AIDS drug) and Tenofovir alafenamide (TAF, an FDA approved drug for HIV and hepatitis B) for evaluation as inhibitors of SARS-CoV-2 RdRp.",0.8508780869095904
+47,ds5hm731,17616,drug,Oseltamivir is an oral agent approved for prophylaxis and the treatment of influenza infections.,0.8502263765643756
+130,nbgdmavr,23223,drug,Our results demonstrated that ribavirin treatment dose-dependently inhibited the replication of both nidoviruses.,0.8501298100467081
+69,drrs2tc1,4865,drug,Mizoribine inhibited replication of SARS-CoV more strongly than ribavirin.,0.8500865696053947
+142,5lzzobl3,18955,drug,"Chloroquine, an old antimalarial drug, may be considered for immediate use in the prevention and treatment of SARS-CoV infections.",0.8495919318424772
+29,0hbeso65,16931,drug,The current therapy for HCV infection consists of a combination of Pegylated interferon and ribavirin.,0.849080102134949
+377,77cylm1o,6157,drug,"Here we report that the HIV-1 protease inhibitor, nelfinavir, strongly inhibited replication of the SARS coronavirus (SARS-CoV).",0.8490091016071581
+441,dpcpg5c1,93,drug,"Based on our molecular insight that the hepatitis C virus and the coronavirus use a similar viral genome replication mechanism, we reasoned that the FDA-approved drug EPCLUSA (Sofosbuvir/Velpatasvir) for the treatment of hepatitis C will also inhibit the above coronaviruses, including 2019-nCoV.",0.8489696776994737
+126,qcbskifq,22314,drug,"Additionally, the resistance of SARS-CoV to ribavirin (RBV) demonstrates the need to define new targets for inhibition of CoV replication.",0.8485403251947998
+81,wl83d6gs,21659,drug,"In this report, ribavirin was shown to inhibit SARS-CoV replication in five different cell types of animal or human origin at therapeutically achievable concentrations.",0.8479963608459966
+242,vbgf50os,194,drug,"It is suggested that the therapeutic effect of ritonavir and lopinavir on COVID-19 may be mainly due to their inhibitory effect on CEP_C30, while ritonavir may have stronger efficacy; the inhibitory effect of darunavir on SARS-CoV-2 and its potential therapeutic effect may be mainly due to its inhibitory effect on PLVP.",0.8475889368801699
+616,qmg58cgr,128,drug,The focused drug repurposing of known approved drugs (such as lopinavir/ritonavir) has been reported failed for curing SARS-CoV-2 infected patients.,0.8474827532487039
+139,d4loia11,1454,drug,"To allow structure-based design of drugs directed at SARS-CoV main proteinase, we predicted its binding pockets and affinities with existing HIV, psychotic and parasite drugs (lopinavir, ritonavir, niclosamide and promazine), which show signs of inhibiting the replication of SARS-CoV.",0.8474498891915985
+92,hj675z1b,260,drug,"SARS-CoV-2, a member of the coronavirus family, has caused a global public health emergency.1 Based on our analysis of hepatitis C virus and coronavirus replication, and the molecular structures and activities of viral inhibitors, we previously reasoned that the FDA-approved heptatitis C drug EPCLUSA (Sofosbuvir/Velpatasvir) should inhibit coronaviruses, including SARS-CoV-2.2 Here, using model polymerase extension experiments, we demonstrate that the activated triphosphate form of Sofosbuvir is incorporated by low-fidelity polymerases and SARS-CoV RNA-dependent RNA polymerase (RdRp), and blocks further incorporation by these polymerases; the activated triphosphate form of Sofosbuvir is not incorporated by a host-like high-fidelity DNA polymerase.",0.847277462159407
+122,3moa7cpg,13237,drug,"To validate commonly used antiviral drugs, we evaluated the effect of ribavirin, a drug used to treat hepatitis C with interferon-β (IFN-β), on ZIKV replication.",0.8472594388885077
+129,nbgdmavr,23228,drug,"Taken together, our data indicate that ribavirin might not only be a good therapeutic agent against porcine nidovirus, but also a potential candidate to be evaluated against other human and animal coronaviruses.",0.8465354790819122
+21,cxxk09t2,10481,drug,"The treatment through the combination of ribavirin and pegylated interferon is expensive, only mildly effective, and is associated with severe side effects.",0.8461648370120878
+270,otoqejtg,13796,drug,The results showed that Galanthus nivalis agglutinin (GNA) and nelfinavir effectively inhibited FCoV replication.,0.8454454364217101
+464,otoqejtg,13799,drug,These results suggest that the combined use of GNA and nelfinavir has therapeutic potential in the prophylaxis and treatment of cats with early-diagnosed FIP.,0.8453432952142108
+215,wvtqbguq,21429,drug,"No licensed anti-arenavirus vaccines are available, and current anti-arenavirus therapy is limited to the use of ribavirin, which is only partially effective and is associated with anemia and other side effects.",0.8452240737757455
+158,ay4cnzn5,17541,drug,"We then assessed the anti-MERS-CoV activities of the identified compounds and of interferons, nelfinavir, and lopinavir because of their reported anti-coronavirus activities in terms of cytopathic effect inhibition, viral yield reduction, and plaque reduction assays in Biosafety Level-3 laboratory.",0.8451326467702311
+206,wl83d6gs,21658,drug," Initial in vitro investigations demonstrated type I interferons (IFNs: IFN-α, IFN-β) to inhibit replication of SARS coronavirus (SARS-CoV), but found the nucleoside analogue ribavirin ineffective in Vero cells.",0.8448531974436393
+240,0czu600e,10142,drug,"Favipiravir showed higher efficacy than ribavirin against SFTSV in in vitro assays and greater efficacy in animal models, even administrated 3 days after the virus inoculation.",0.8447972064625695
+407,kzirtmbw,20603,drug,"High-dose corticosteroid therapy might be useful for critically ill patients, but previous use of ribavirin (a broad-spectrum antiviral agent) was probably not efficacious.",0.8446091324043381
+412,lm9dysoc,20923,drug,"High-dose corticosteroid therapy might be useful for critically ill patients, but previous use of ribavirin (a broad-spectrum antiviral agent) was probably not efficacious.",0.8445401547525189
+615,r22x7gnu,148,drug,Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro,0.8444743734531155
+307,nbgdmavr,23227,drug,"Further sequencing analysis showed that the mutation frequency in ribavirin-treated cells was similar to that in untreated cells, indicating that ribavirin did not induce error-prone replication.",0.8443376920047871
+79,ua22udlc,8092,drug,"In a randomized controlled trial of indinavir, saquinavir and lopinavir in combination with low-dose ritonavir in 656 patients, median total cholesterol increased by 0.5 mmol/l in the patients with the highest minimum drug plasma concentrations.",0.84429569673942
+125,oruqlb1j,14471,drug,Enhanced inhibition effects were observed in the IBRS-2 cells and in suckling mice from the combination of Ad-porcine IFN-α and Ad-siRNA or ribavirin.,0.8441291226423038
+150,ir8ibr87,2688,drug,"Drugs approved for the treatment of RNA virus infections (other than HIV) are the influenza M2 channel inhibitors, amantadine and rimantadine; the influenza neuraminidase inhibitors, oseltamivir and zanamivir, and ribavirin for the treatment of infections with respiratory syncytial virus and hepatitis C virus.",0.8439652005150768
+185,6l87y6jg,16479,drug,Other IMP dehydrogenase inhibitors administered near maximum tolerated doses using the same dosing regimen as for ribavirin were found to slightly enhance virus replication in the lungs.,0.8438315783757071
+255,r49ox9x9,2745,drug,"To understand the fine details of the molecular interactions between these proteinase inhibitors and the SARS virus via complexation, molecular dynamics simulations were carried out for the SARS-CoV 3CLpro free enzyme (free SARS) and its complexes with lopinavir (SARS–LPV) and ritonavir (SARS–RTV).",0.8436942020118174
+305,t6qr41wc,2365,drug,The present standard therapy of pegylated IFN with ribavirin achieves a sustained virologic response in about 50% of patients.,0.8436010550794046
+387,v3548bfn,6824,drug,"Clinical studies have shown that early treatments of RSV patients with ribavirin improve prognosis, even if the use of this drug is limited due to myelosuppression and toxicity effects.",0.8433881342019265
+775,hq5um68k,177,drug,We also proposed the drug combination of DAA and HTA was a promising strategy for anti-virus treatment and proved that S312 showed more advantageous than Oseltamivir to treat advanced influenza diseases in severely infected animals.,0.8429326611440822
+389,9vi8xwu7,6263,drug,"Treatment with antiviral drugs demonstrated that the replication could be significantly inhibited by 0.4mg/ml of cysteine proteinase inhibitor E-64D, but not by ribavirin.",0.8427427052499628
+119,ir8ibr87,2689,drug,"The molecular mechanism(s) by which ribavirin inhibits viral replication, such as depletion of intracellular GTP pools and induction of error catastrophe, may not readily allow the design of analogues that are more potent/selective than the parent drug.",0.8427177343173289
+135,drrs2tc1,4861,drug," The activity of inosine-5′-monophosphate dehydrogenase (IMPDH) inhibitors, mizoribine and ribavirin, against severe acute respiratory syndrome (SARS)-associated coronavirus (SARS-CoV) was determined by plaque reduction and yield reduction assays.",0.842464153210938
+456,2irhi9i2,20473,drug,A combination treatment of steroids and ribavirin was widely used empirically from the outset of the epidemic.,0.8424187886193828
+552,0czu600e,10140,drug,"Studies of potential antiviral drugs for SFTS-specific therapy have been conducted on existing or newly discovered agents in vitro and in vivo, with ribavirin and favipiravir being the most promising candidates.",0.8418948239391184
+639,hpuogyb0,5243,drug,Combination therapy with Interferon-α and ribavirin remains the backbone treatment for chronic hepatitis C; the addition of serine protease inhibitors improves the treatment outcome of patients infected with hepatitis C virus genotype 1.,0.8411861552031967
+674,77cylm1o,6161,drug,"Experiments with various timings of drug addition revealed that nelfinavir exerted its effect not at the entry step, but at the post-entry step of SARS-CoV infection.",0.8411611389466478
+928,d7n1zy0b,343,drug,"Key findings The results suggest the effectiveness of Sofosbuvir, IDX-184, Ribavirin, and Remidisvir as potent drugs against the newly emerged HCoV disease.",0.8400798727812409
+532,drrs2tc1,4864,drug,"In a yield reduction assay, mizoribine (10μg/ml) and ribavirin (40μg/ml) inhibited the replication of SARS-CoV and reduced the infectious SARS-CoV titers to one-tenth or less.",0.8398089659768815
+838,h8zqis1p,15320,drug,"Several combinations, including ribavirin, were assayed to test a potential synergistic effect.",0.8389328169528356
+658,0czu600e,10141,drug,"While animal experiments and retrospective studies have demonstrated the limited efficacy of ribavirin, it was also speculated that ribavirin would be effective in patients with a viral load <1 × 10(6) copies/mL.",0.8383414622994398
+421,ay4cnzn5,17545,drug,"The serum concentrations achievable at therapeutic doses of mycophenolic acid and interferon-β1b were 60–300 and 3–4 times higher than the concentrations at which in-vitro anti-MERS-CoV activities were demonstrated, whereas that of ribavirin was ∼2 times lower.",0.8381634893190841
+621,oj60pldq,11554,drug,"Concerns about human-pathogenic mammarenaviruses are exacerbated by of the lack of licensed vaccines, and current anti-mammarenavirus therapy is limited to off-label use of ribavirin that is only partially effective.",0.8377481480759816
+828,ebwxryai,12876,drug,"In opposite, treatment with lopinavir/ritonavir led to Cdkn1a overexpression and ameliorated cell apoptosis and lung injury.",0.8373603385587907
+518,0ory4p2z,24303,drug,"This article reviews licensed drugs and treatments under development, including high-dose oseltamivir; parenterally administered neuraminidase inhibitors, peramivir and zanamivir; dimeric forms of zanamivir; the RNA polymerase inhibitor T-705; a ribavirin prodrug, viramidine; polyvalent and monoclonal antibodies; and combination therapies.",0.8371393129587466
+666,u5ajsofp,19885,drug,"In nearly every published case report of attempted therapy for clinical FIP, glucocorticoids have been used; there are, however, no controlled studies that evaluate the effect of glucocorticoids as a therapy for FIP.",0.8353056313796154
+1086,p1ajw8mq,25569,drug,"Oseltamivir was initiated in 125 patients (80.6%), only 16 patients received antiviral therapy within 48 hours after symptom onset.",0.8246372597817586
+1357,5o9bbspc,305,drug,Conclusion Despite its small sample size our survey shows that hydroxychloroquine treatment is significantly associated with viral load reduction/disappearance in COVID-19 patients and its effect is reinforced by azithromycin.,0.8178689810031927
+1234,lcuma3eh,21089,drug,The toxicological effects of Chloroquine and NH(4)Cl were tested in liver cells through MTT cell proliferation assay.,0.8176203613280966
+1296,ov5nmm1k,5063,drug,There are not Food and Drug Administration (FDA) licensed vaccines and current anti-mammarenavirus therapy is limited to an off-label use of ribavirin that is only partially effective and can cause significant side effects.,0.8141702786945288
+1343,gvfz6qio,7326,drug,Chloroquine is a 9-aminoquinolone with well-known anti-malarial effects.,0.813739671675082
+1398,wl83d6gs,21661,drug,Determination of the virus yield indicated highly synergistic anti-SARS-CoV action of the combination suggesting the consideration of ribavirin plus IFN-β for the treatment of SARS.,0.8134771784935237
+1274,tu61ux95,11891,drug," Traditional Chinese Medicine (TCM) is widely used in clinical research due to its low toxicity, low number of side effects, and low cost.",0.8133110026911679
+1502,wicc796j,14998,drug,The combination of lopinavir/ritonavir and interferon-beta- 1b showed excellent results in common marmosets and currently is in a randomized control trial.,0.806709163226569
+1457,c2q3ycfv,7995,drug,"We assessed the antiviral potential of ribavirin, 6-azauridine, pyrazofurin, mycophenolic acid, and glycyrrhizin against two clinical isolates of coronavirus (FFM-1 and FFM-2) from patients with SARS admitted to the clinical centre of Frankfurt University, Germany.",0.8064485253939762
+1518,h8zqis1p,15324,drug,The selectivity index ranging from 3 to 35 lead us to evaluate combinations with ribavirin.,0.8052158360201913
+1639,5o9bbspc,298,drug,"Patients and methods French Confirmed COVID-19 patients were included in a single arm protocol from early March to March 16th, to receive 600mg of hydroxychloroquine daily and their viral load in nasopharyngeal swabs was tested daily in a hospital setting.",0.7932097621712928
+1738,zgdbvfi4,26,drug,"Therefore, we suggested that nelfinavir might be a potential inhibitor against 2019-nCov Mpro.",0.7925523990918333
+1666,zynor0b2,20387,drug,Serum neopterin levels were found to be a predictor of response to treatment of chronic HCV infection with pegylated interferon combined with ribavirin.,0.7919705986627417
+1718,7u1a198p,6382,drug,"treatment of hepatitis C), ribavirin and pegylated interferon might also be useful for controlling avian flu.",0.7897990556547638
+1931,wicc796j,15003,drug,The study is based on a combination of lopinavir/ritonavir and interferon-beta- 1b.,0.769585262808951
+1901,cszqykpu,245,drug,"The result showed that atazanavir, an antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV), is the best chemical compound, showing a inhibitory potency with Kd of 94.94 nM against the 2019-nCoV 3C-like proteinase, followed by efavirenz (199.17 nM), ritonavir (204.05 nM), and dolutegravir (336.91 nM).",0.7688751885306153
+1921,6l87y6jg,16474,drug," Because of the conflicting data concerning the SARS-CoV inhibitory efficacy of ribavirin, an inosine monophosphate (IMP) dehydrogenase inhibitor, studies were done to evaluate the efficacy of ribavirin and other IMP dehydrogenase inhibitors (5-ethynyl-1-β-d-ribofuranosylimidazole-4-carboxamide (EICAR), mizoribine, and mycophenolic acid) in preventing viral replication in the lungs of BALB/c mice, a replication model for severe acute respiratory syndrome (SARS) infections (Subbarao, K., McAuliffe, J., Vogel, L., Fahle, G., Fischer, S., Tatti, K., Packard, M., Shieh, W.J., Zaki, S., Murphy, B., 2004.",0.7573178419158775
+2026,nbgdmavr,23221,drug,"Although ribavirin is a well-known antiviral drug against a broad range of both DNA and RNA viruses in vitro, its inhibitory effect and mechanism of action on porcine nidovirus replication remains to be elucidated.",0.7556075464835601
+2108,bpfl03bu,19300,drug,"Oseltamivir usage increased substantially in 2009 and is now commonly used, with almost 40,000 hospitalizations treated with oseltamivir in the years 2012 through 2015, 66% of which was in persons ≥65 years of age.",0.7377557706044067
+2207,hpuogyb0,5246,drug,"Some antiviral drugs possess multiple potential clinical applications, such as ribavirin for the treatment of chronic hepatitis C and respiratory syncytial virus and cidofovir for the treatment of cytomegalovirus and other DNA viruses.",0.7311389911086525
+2452,4xwh2axk,9063,drug,Silvestrol blocked HEV replication of different subgenomic replicons in a dose-dependent manner at low nanomolar concentrations and acted additive to ribavirin (RBV).,0.7120683817296845
+2551,oruqlb1j,14472,drug,The combined application of these recombinant adenoviruses and ribavirin may enhance their inhibitory effect on FMDV and overcome FMDV resistance against antiviral agents.,0.7104002657886459
+2381,zgdbvfi4,25,drug,"Both MM/GBSA and SIE methods voted for nelfinavir, with the binding free energy of −24.69±0.52 kcal/mol and −9.42±0.04 kcal/mol, respectively.",0.7082483593101256
+2521,wcdg5d54,8338,drug,"Time-of-addition experiments revealed that K22 acts during a postentry phase of the ZIKV life cycle, and combination regimens of K22 together with ribavirin (RBV) or interferon alpha (IFN-α) further increased the extent of viral inhibition.",0.7072243682781214
+2625,1vm5r7pq,241,drug,"Here, from the perspective of clinical immunologists, we will discuss the clinical and immunological characteristics of severe patients, and summarize the current evidence and share our experience in anti-inflammation treatment, including glucocorticoids, IL-6 antagonist, JAK inhibitors and choloroquine/hydrocholoroquine, of patients with severe COVID-19 that may have an impaired immune system.",0.7003765454664512
+2767,77cylm1o,6160,drug,Quantitative RT-PCR analysis showed that nelfinavir could decrease the production of virions from Vero cells.,0.697469894425343
+2735,b4mdiont,187,drug,"In addition, we prioritized 16 potential anti-HCoV repurposable drugs (including melatonin, mercaptopurine, and sirolimus) that were further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines.",0.6962406992102872
+2781,tdlcb9bf,328,drug,Patients and methods Patients were included in a single arm protocol to receive 600mg of hydroxychloroquine daily and their viral load in nasal swabs was tested daily.,0.6924318543916941
+2801,e14cbd1o,22765,drug,"Chloroquine, an amine acidotropic drug known to affect intracellular exocytic pathways by increasing endosomal pH, was used in the in vitro treatment of Vero and C6/36 cells infected with dengue virus type 2 (DENV-2).",0.6908126451394698
+2976,6l87y6jg,16483,drug,Our data do not support the use of ribavirin or other IMP dehydrogenase inhibitors for treating SARS infections in humans.,0.6894700610681981
+2822,51yq1rdo,3175,drug,"Most analogues proved active against influenza B virus in the low micromolar range, and the best compounds (11, 13, 14 and 16) even reached the sub-micromolar potency of zanamivir (EC50 = 0.060 μM), and markedly exceeded (up to 327 times) the antiviral efficacy of ribavirin.",0.6878296924767198
+2898,4yuw7jo3,202,drug,"We further identify three potential drug combinations (e.g., sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the “Complementary Exposure” pattern: the targets of the drugs both hit the HCoV–host subnetwork, but target separate neighborhoods in the human interactome network.",0.6860551664148233
+2915,b4mdiont,188,drug,"Finally, we showcased three potential drug combinations (including sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the Complementary Exposure pattern: the targets of the drugs both hit the HCoV-host subnetwork, but target separate neighborhoods in the human protein-protein interactome network.",0.6856338453787834
+2906,2irhi9i2,20475,drug,"On the other hand, ribavirin administration apparently reduced neither the rate of intratracheal intubation nor that of mortality.",0.6848712028549804
+3142,tdlcb9bf,333,drug,Azithromycin added to Hydroxychloroquine was significantly more efficient for virus elimination.,0.6841267134017555
+3144,5o9bbspc,304,drug,Azithromycin added to hydroxychloroquine was significantly more efficient for virus elimination.,0.6840837832111586
+3288,77cylm1o,6162,drug,Our results suggest that nelfinavir should be examined clinically for the treatment of SARS and has potential as a good lead compound for designing anti-SARS drugs.,0.6795801969781481
+3181,oruqlb1j,14468,drug,The selectivity indices of ribavirin (35.2) and 6-azauridine (34.6) were higher than that of guanidine-HCl (26.9).,0.6771478313731587
+3270,upzmzauj,4641,drug,"As determined by the cell-based assay, the compounds NSC345647, NSC87511, and NSC343256 showed better EC50 values than the broad-spectrum antiviral drug ribavirin and the protease inhibitor lopinavir, under all the test conditions including pre-viral entry, post-viral entry, and prophylactic activity.",0.6732956817212172
+3006,469zrqpi,6312,drug,"The Traditional Chinese Medicine Information Database TCM-ID, at http://tcm.cz3.nus.edu.sg/group/tcm-id/tcmid.asp, was introduced for providing comprehensive information about all aspects of TCM including prescriptions, constituent herbs, herbal ingredients, molecular structure and functional properties of active ingredients, therapeutic and side effects, clinical indication and application and related matters.",0.6732025971029527
+3251,vbgf50os,193,drug,"In the simulations, ritonavir can bind to CEP_C30 most suitably, and induce significant conformation changes of CEP_C30; lopinavir can also bind to CEP_C30 suitably, and induce significant conformation changes of CEP_C30; darunavir can bind to PLVP suitably with slight conformation changes of PLVP.",0.6718350517347158
+3415,4yuw7jo3,201,drug,"Using network proximity analyses of drug targets and HCoV–host interactions in the human interactome, we prioritize 16 potential anti-HCoV repurposable drugs (e.g., melatonin, mercaptopurine, and sirolimus) that are further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines.",0.6699782367737488
+3732,d7n1zy0b,342,drug,"Additionally, the newly emerged Wuhan HCoV RdRp model is targeted by anti-polymerase drugs, including the approved drugs Sofosbuvir and Ribavirin.",0.6692227477414212
+3449,umq6vd0q,16092,drug,"Application to a LOPAC library of bioactive compounds in a proof-of-concept campaign detected licensed anti-myxovirus therapeutics, ribavirin and the neuraminidase inhibitor zanamivir, and identified two unexpected RSV-specific hit candidates, Fenretinide and the opioid receptor antagonist BNTX-7.",0.6675633797389309
+3705,3moa7cpg,13238,drug,"In mammalian cells, we observed an inhibitory effect of ribavirin on ZIKV replication and ZIKV-induced cell death without cytotoxic effect.",0.6670210375165675
+3880,z3hbjb30,17908,drug,"In addition, we studied the effect of combination of RNAi based therapy with other classical antivirals like chloroquine, ribavirin and mycophenolic acid, that helped in understanding the rational selection of RNAi based combination therapy.",0.6609042456937257
+3771,6l87y6jg,16480,drug,"In addition, ribavirin treatment seemed also to promote the production of pro-inflammatory cytokines 4 days after cessation of treatment, although after 3 days of treatment ribavirin inhibited pro-inflammatory cytokine production in infected mice, significantly reducing the levels of the cytokines IL-1α, interleukin-5 (IL-5), monocyte chemotactic protein-1 (MCP-1), and granulocyte-macrophage colony stimulating factor (GM-CSF).",0.656991717489098
+3721,5axrlmxh,4084,drug,"In addition, these two compounds proved to be also effective against RSV (4: EC50 = 0.40 μM, SI ≥ 250; 6: EC50 = 1.8 μM, SI ≥ 56), surpassing the potency and selectivity index (SI) of ribavirin (EC50 = 5.8 μM, SI > 43).",0.6541397602306311
+4234,0ewcptub,4063,drug, 2017 marked the 30th anniversary of the approval of zidovudine (AZT) as the first HIV/AIDS therapy.,0.6487749214324445
+4271,lcuma3eh,21091,drug,The results demonstrated that Chloroquine and NH(4)Cl showed more than 50% reduction of virus infectivity at 50 μM and 10 mM concentrations respectively.,0.6477223857474583
+4439,rjp2d1u9,8104,drug,Such studies can address potential differences in the diagnostic outcomes between patients who develop detectable Oseltamivir resistance and those who retain only the wild type strain of H5N1.,0.6450959286325137
+4204,oruqlb1j,14467,drug,"First, we measured and compared the 50% effective concentration (EC50) to the mean inhibition effects of FMDV, and the 50% cytotoxic concentration (CC50) to the mean cytotoxicity of antiviral agents such as ribavirin, guanidine-hydrochloride (guanidine-HCl), 6-azauridine, and recombinant adenovirus expressing three small interference RNAs (Ad-siRNA) or porcine interferon-α (Ad-porcine IFN-α) in swine kidney cells (IBRS-2).",0.6447200447825228
+4741,tdlcb9bf,334,drug,Conclusion : Hydroxychloroquine is significantly associated with viral load reduction/disappearance in patients with COVID-19 and its effect is reinforced by Azithromycin.,0.6428556871732605
+4421,51yq1rdo,3177,drug,"Importantly, the compounds displayed nanomolar activity against RSV and a superior selectivity index, since the ratio of cytotoxic to antiviral concentration was >10,000 for the three most active compounds 11, 14 and 16 (EC50 ∼0.008 μM), far surpassing the potency and safety profile of the licensed drug ribavirin (EC50 = 5.8 μM, SI > 43).",0.6401496911954971
+4635,j09mf1ad,1678,drug,"GS-327073, when combined with either interferon α, ribavirin, a nucleoside polymerase or a protease inhibitor resulted in overall additive antiviral activity.",0.6399465811016984
+4586,g5wpa2ee,70,drug,"Based on this structure and existing experimental datasets for SARS 3CL protease inhibitors, we develop an SBDR model based on machine learning and mathematics to screen 1465 drugs in the DrugBank that have been approved by the U.S. Food and Drug Administration (FDA).",0.6392144145168706
+5003,qmut89kb,16249,drug,Chloroquine has also been used as anti-inflammatory drugs to treat inflammatory diseases.,0.6389789301880566
+5114,vbgf50os,192,drug,"Ritonavir, lopinavir and darunavir were then docked to the models, respectively, followed by energy minimization of the protease-drug complexes.",0.634634114681347
+5498,qdt90c22,31,drug,"Our results showed that several HIV inhibitors such as lopinavir, ritonavir, and saquinavir produce strong interaction with the active site of SARS-CoV-2 main protease.",0.6345344945006655
+5277,5o9bbspc,296,drug," Background Chloroquine and hydroxychloroquine have been found to be efficient on SARS-CoV-2, and reported to be efficient in Chinese COV-19 patients.",0.6340421518310018
+4927,8prn86g6,170,drug,"We demonstrated the ability of these three viral polymerase inhibitors, 3′-fluoro-3′-deoxythymidine triphosphate, 3′-azido-3′-deoxythymidine triphosphate and Tenofovir diphosphate (the active triphosphate forms of Alovudine, AZT and TAF, respectively) to be incorporated by SARS-CoV-2 RdRp, where they also terminate further polymerase extension.",0.6335512077791778
+4911,hj675z1b,262,drug,"We demonstrate the ability of two HIV reverse transcriptase inhibitors, 3’-fluoro-3’-deoxythymidine triphosphate and 3’-azido-3’-deoxythymidine triphosphate (the active triphosphate forms of Alovudine and AZT), to be incorporated by SARS-CoV RdRp where they also terminate further polymerase extension.",0.6331750514986385
+5179,wl83d6gs,21660,drug,"Since clinical anti-SARS-CoV activity of type I interferons or ribavirin is limited, we investigated the combination of IFN-β and ribavirin.",0.6329843116140355
+5430,arz8r204,16336,drug,"Here, the potent inhibition induced by saquinavir and nelfinavir on the replication of both vesicular stomatitis and influenza viruses is described.",0.6314341820287668
+5130,ng6h4l3m,2844,drug,"Protease inhibitors (darunavir, atazanavir, and ritonavir), viral DNA polymerase inhibitors (acyclovir, valacyclovir, valganciclovir, and tenofovir), and an integrase inhibitor (raltegravir) are included in the list of Top 200 Drugs by sales for the 2010s.",0.6305335689752605
+5583,cszqykpu,248,drug,"In addition, we also found that several antiviral agents, such as Kaletra, could be used for the treatment of 2019-nCoV, although there is no real-world evidence supporting the prediction.",0.62970965938635
+6056,cszqykpu,246,drug,"Interestingly, lopinavir, ritonavir, and darunavir are all designed to target viral proteinases.",0.626192183882659
+5664,6l87y6jg,16482,drug,"By not inhibiting viral replication in the lungs of infected mice, ribavirin treatment may have provided a continual source of stimulation for the inflammatory response thought to contribute to the pathogenesis of the infection.",0.6245915215123257
+5991,jv76j6wx,12859,drug,"Gemcitabine, an anti-cancer chemotherapy drug, has additionally shown the antiviral activity against a broad range of viruses and we also have previously reported its synergistic antiviral activity with ribavirin against enteroviruses.",0.6221580400051707
+5993,2irhi9i2,20476,drug,"Moreover, significant toxicity, such as hemolytic anemia, has been attributed to ribavirin.",0.6213269857051253
+5882,ekxsv91t,23722,drug,"Cellular PI3K/Akt and ERK/MAPK signaling pathways may be involved in the anti-IAV actions of PA. Intranasal administration of PA markedly improved mice survival and attenuated pneumonia symptoms in IAV infected mice, comparable to the effects of Oseltamivir.",0.6208711296090059
+6280,nbgdmavr,23222,drug,"Therefore, the present study was conducted to determine whether ribavirin suppresses porcine nidovirus infection.",0.6194006670316963
+6592,5o9bbspc,297,drug,We evaluate the role of hydroxychloroquine on respiratory viral loads.,0.6175172083192491
+6620,tdlcb9bf,327,drug,We evaluate the role of Hydroxychloroquine on respiratory viral loads.,0.6172126858499642
+5503,drrs2tc1,4863,drug,"The 50% inhibitory concentration (IC50) of mizoribine for SARS-CoV Frankfurt-1 and SARS-CoV HKU39849, as determined by plaque reduction was 3.5μg/ml and 16μg/ml, respectively, and the IC50 of ribavirin for SARS-CoV Frankfurt-1 and SARS-CoV HKU39849 was 20μg/ml and 80μg/ml, while the 50% cytotoxic concentration of mizoribine and ribavirin for Vero E6 cells exceeded 200μg/ml.",0.6163006458389857
+6132,zb6cv8ik,8447,drug,"Expression of IL-32 in influenza A virus infected A549 human lung epithelial cells was blocked by either selective COX-2 inhibitor NS398 or Aspirin, a known anti-inflammatory drug, indicating IL-32 was induced through COX-2 in the inflammatory cascade.",0.61569933609122
+6049,iqepytyd,6270,drug,"Losartan administration ameliorated pulmonary vascular remodeling, inhibited the smoke-induced RVSP and Ang II elevation and partially reversed the ACE2 decrease in rat lungs.",0.6147663693244092
+6910,nbgdmavr,23224,drug,The antiviral activity of ribavirin on porcine nidovirus replication was found to be primarily exerted at early times post-infection.,0.6129324751661087
+6860,sud0r8kz,12686,drug,Hydroxychloroquine (HCQ) is an antimalarial drug also used in treating autoimmune diseases.,0.61279173210029
+6646,b6aklh44,13877,drug,"Because mutagenic nucleoside analogs such as ribavirin also affect intracellular nucleotide pools, we addressed the link between nucleotide depletion and replication fidelity by using purine and pyrimidine biosynthesis inhibitors.",0.6125872347363788
+5917,22vlqzzh,24032,drug,"Andrographolide have been identified as the highest binging energy of −10.88 Kcal/mol, 3 hydrogen bond interactions (Arg152, Lys150, and Gly197), total intermolecular energy of −12.07 Kcal/mol with bioactivity value (Ki) of 10.59 nmol/L, while the Food and Drug Admistraton approved drug Oseltamivir and Zanamivir have shown 2 and 4 hydrogen bond interactions with binding energies of −6.28 Kcal/mol and −7.73Kcal/mol, respectively, which is higher than andrographolide.",0.6109862014025638
+6950,nbgdmavr,23226,drug,"Investigations into the mechanism of action of ribavirin against PRRSV and PEDV revealed that the addition of guanosine to the ribavirin treatment significantly reversed the antiviral effects, suggesting that depletion of the intracellular GTP pool by inhibiting IMP dehydrogenase may be essential for ribavirin activity.",0.6102277040201982
+7159,201jppkd,12721,drug,Chloroquine analogs have been used for decades as the primary and most successful drugs against malaria.,0.6095081035445402
+7574,h8zqis1p,15325,drug,Combinations of ribavirin and chloroquine or chlorpromazine were synergistic against CCHFV.,0.6094947135849897
+7225,nrvgnsp4,13570,drug,"Likewise, confirmatory studies of sirolimus without concomitant corticosteroid therapy should be explored as a research priority.",0.6078403614642318
+7178,otoqejtg,13797,drug,"When the amount of virus preinoculated into the test cells was increased to mimic the high viral load present in the target cells of FIP cats, GNA and nelfinavir by themselves lost their inhibitory effect.",0.6073244789612053
+7376,tsuz3j40,21474,drug,Results were compared with those of a reference control ribavirin.,0.6059688015223976
+9498,6l87y6jg,16481,drug,These findings suggest that ribavirin may actually contribute to the pathogenesis of SARS-CoV by prolonging and/or enhancing viral replication in the lungs.,0.604149264447901
+13774,ay4cnzn5,17544,drug,"Additionally, ribavirin and interferons also exhibited in-vitro anti-MERS-CoV activity.",0.6040155454827829
+7372,ft9l3sur,106,drug,Baricitinib as potential treatment for 2019-nCoV acute respiratory disease,0.6036490176937295
+8290,9lkd4o3l,6388,drug,"We focused on upregulation of S6 phosphorylation by HSV-1 infection, and our subsequent finding that ribavirin antagonizes this upregulation of S6 phosphorylation.",0.6035671916320724
+8796,77cylm1o,6159,drug,Expression of viral antigens was much lower in infected cells treated with nelfinavir than in untreated infected cells.,0.6034764813927771
+12399,55ceq7ze,2473,drug,The broad-spectrum antiviral agent ribavirin affects viral nucleic acid replication by multiple mechanisms.,0.6020904564319274
+11214,tdlcb9bf,326,drug,"Background Chloroquine and Hydroxychloroquine have been found to be efficient on COV-19, and reported to be efficient in Chinese patients infected by this virus.",0.6020583647779516
+10944,ubwpyt3f,13501,drug,"In recent years, a growing number of ribavirin resistant and sensitive variants have been identified.",0.6020379512496843
+8448,hdsdza86,23028,drug,"In particular, ribavirin may be exerting in some cases its antiviral activity with participation of its mutagenic action.",0.6018769959602537
+23905,wys8t1wi,18589,drug,"The assay for Lassa virus was validated with ribavirin, which showed an IC50 of 9μg/ml.",0.6007170454927013
+16333,b6aklh44,13880,drug,IMPORTANCE Previous studies using the RNA mutagen ribavirin to select for drug-resistant variants have highlighted the essential role of the viral RNA-dependent RNA polymerase in regulating replication fidelity.,0.5997296847624327
+18883,9ux181xg,5967,drug,"A unique set of 207 genes was dysregulated early and permanently throughout infection with HCoV-EMC, and was used in a computational screen to predict potential antiviral compounds, including kinase inhibitors and glucocorticoids.",0.5995871309524323
+12149,b6aklh44,13884,drug,Our data show that the RNA mutagenic activity of compounds such as ribavirin is coupled to and potentiated by nucleotide depletion and that RNA viruses can fine-tune their replication fidelity when faced with an intracellular environment depleted of nucleotides.,0.5994524031715975
+23846,rjp2d1u9,8098,drug,"Currently, Oseltamivir is being stockpiled in many countries potentially affected by the influenza A virus subtype H5N1 epidemic.",0.5994186585814911
+19411,9p0dr7rl,18055,drug,"Chloroquine increases endosomal pH, impairing influenza virus release into the cytosol.",0.5994121278646785
+21325,txaoz7oh,16713,drug,"This includes molecules with very broad antiviral spectrum such as ribavirin and T-705 (favipiravir), and others targeting more specifically one or a few virus families.",0.5992428361915352
+11155,dpcpg5c1,94,drug,"To develop broad spectrum anti-viral agents, we further describe a novel strategy to design and synthesize viral polymerase inhibitors, by combining the ProTide Prodrug approach used in the development of Sofosbuvir with the use of 3’-blocking groups that we have previously built into nucleotide analogues that function as polymerase terminators.",0.5990739882390803
+9784,b6aklh44,13874,drug,"Previous studies used resistance to broad-spectrum RNA mutagens, such as ribavirin, to identify polymerases with increased fidelity that avoid misincorporation of such base analogues.",0.5989864639585687
+25476,ubwpyt3f,13502,drug,"These variants not only inform on the specific mechanisms by which ribavirin enfeebles the virus, but also can themselves be tools to identify new antiviral compounds.",0.598701099081205
+11082,9ukf9vpg,18,drug,"Baricitinib was identified as a NAK inhibitor, with a particularly high affinity for AAK1, a pivotal regulator of clathrin-mediated endocytosis.",0.598540500562424
+12841,68hgxqrn,19385,drug,"Zinc has a necessary role in the replication of many viruses, however, antiviral action of zinc has also been demonstrated in in vitro infection models most likely through induction of host antiviral responses.",0.5982894543274111
+17380,rn3bjc9d,730,drug,Remdesivir (GS-5734) is a 1′-cyano-substituted adenosine nucleotide analogue prodrug that shows broad-spectrum antiviral activity against several RNA viruses.,0.5981577578642951
+15057,ij5sr88p,1946,drug,"describe potent inhibition of the enzyme by benzotriazole esters, which were originally obtained as intermediates in the synthesis of lopinavir derivatives [1].",0.5979782296883203
+21454,nbgdmavr,23225,drug,"Treatment with ribavirin resulted in marked reduction of viral genomic and subgenomic RNA synthesis, viral protein expression, and progeny virus production in a dose-dependent manner.",0.5979240623332385
+24534,urnt8byc,21870,drug,"Zinc, magnesium and copper are the commonest metal ion that binds with viral proteins.",0.5978358450936796
+18546,gcfx1095,20173,drug,"We found novel activities for dalbavancin against echovirus 1, ezetimibe against human immunodeficiency virus 1 and Zika virus, as well as azacitidine, cyclosporine, minocycline, oritavancin and ritonavir against Rift valley fever virus.",0.5977541413435485
+11865,iqepytyd,6267,drug,"Losartan, a specific angiotensin II receptor antagonist, is a well-known antihypertensive drug with a potential role in regulating angiotensin-converting enzyme-2 (ACE2), a recently found regulator of RAS.",0.5974517314141778
+16407,68hgxqrn,19384,drug,Zinc is an essential micronutrient which regulates diverse physiological functions and has been shown to play a crucial role in viral infections.,0.5972742830230433
+18971,mkfwhv6v,4298,drug,"In v2163-infected mice, Ampligen™ was fully protective, stinging nettle lectin (UDA) was partially protective, ribavirin was disputable and possibly exacerbated disease, and EP128533 was inactive.",0.5962835321910476
+10263,rjp2d1u9,8100,drug,"In order to validate the method, Oseltamivir specimen from treated (Oseltamivir-resistant strain from a Vietnamese patient, two Oseltamivir-treated tigers) and untreated subjects have been used for this study.",0.5962628042038429
+12428,uyzp7ele,4310,drug,"Here, we demonstrated that combining azidothymidine (AZT) with a new NNRTIs under development, diarylpyridine (DAPA)-2e, diarylanilin (DAAN)-14h, or DAAN-15h, resulted in strong synergism against infection by divergent HIV-1 strains, including those resistant to NRTIs and NNRTIs, suggesting the potential for developing these novel NNRTIs as salvage therapy for HIV/acquired immune deficiency syndrome (AIDS) patients.",0.5961305893111091
+23097,ywnr8d48,12539,drug," Ethnopharmacological relevance According to Traditional Chinese Medicine theory, influenza is categorized as a warm disease or Wen Bing.",0.5960240607633014
+22954,lcuma3eh,21088,drug,"To investigate the antiviral effect of LA (Chloroquine and NH(4)Cl) on pH dependent endocytosis, HCV pseudoparticles (HCVpp) of 1a and 3a genotype were produced and used to infect liver cells.",0.5959605997239117
+10925,ewg8q1io,7906,drug,These findings indicated that GL had a glucocorticoid-like inhibitory effect on IL-8 production via a mechanism that differs from that of glucocorticoids.,0.5959422240343826
+22098,mqmzhm6u,5896,drug,"Chloroquine sensitivity was not altered in parasites over-expressing chloroquine resistant or sensitive forms of the PfCRT fused to GFP, suggesting that the PfCRT does not mediate chloroquine transport as a GFP fusion protein.",0.5956639397727443
+14404,lcuma3eh,21087,drug,Lysosomotropic agents (LA) such as Chloroquine and Ammonium chloride (NH(4)Cl) are the weak bases and penetrate in lysosome as protonated form and increase the intracellular pH.,0.595648192234226
+10273,tsuz3j40,21475,drug,"Based on 50% inhibitory concentration values, PGG was 13.4 and 18.0 times more active toward HRV-2 (17.89 μM) and HRV-4 (17.33 μM) in MRC5 cells, respectively, than ribavirin.",0.5952047093118569
+24364,rjp2d1u9,8097,drug," A single amino acid substitution, from histidine to tyrosine at position 274 of the neuraminidase gene has converted Oseltamivir sensitive H5N1 influenza A virus into a resistant strain.",0.5950397275960462
+11594,469zrqpi,6309,drug, AND PURPOSE: Traditional Chinese Medicine (TCM) is widely practised and is viewed as an attractive alternative to conventional medicine.,0.5946965312026098
+15127,ry6xr4ix,6229,drug,"Aspirin is the oldest non-steroidal anti-inflammatory drug (NSAID), and it sometimes causes asthma-like symptoms known as aspirin-exacerbated respiratory disease (AERD), which can be serious.",0.594560277345271
+25155,mqmzhm6u,5890,drug,"Two multi-spanning food vacuole membrane proteins are known, the multidrug resistance protein 1 (PfMDR1) and Chloroquine Resistance Transporter (PfCRT).",0.594507697879014
+13291,lcuma3eh,21090,drug,"For antiviral screening of Chloroquine and NH(4)Cl, liver cells were infected with HCVpp of 3a and 1a genotype in the presence or absence of different concentrations of Chloroquine and NH4Cl and there luciferase activity was determined by using a luminometer.",0.5930979921608823
+16903,rypjrifp,15881,drug,"Tetrandrine (1–10 μM) had no similar immunosuppressive effects and, moreover, at higher concentrations, enhanced NF-κB and AP-1 activity, COX-2 expression and PGE2 production.",0.5924697518283586
+12835,5axrlmxh,4083,drug,"In particular, the two best compounds shared potent antiviral activity (4: EC50 = 0.29 μM; 6: EC50 = 0.19 μM), which was comparable to that of zanamivir (EC50 = 0.14 μM), and better than that of ribavirin (EC50 = 3.2 μM).",0.5915352576162012
+15681,68hgxqrn,19390,drug,"Zinc depletion by N,N,N',N'-tetrakis(2-pyridinylmethyl)-1,2-ethanediamine (TPEN) inhibited dengue virus and Japanese encephalitis virus (JEV) infection but had no effect on rotavirus.",0.5857739796622001
+112,4fef7smf,16502,drug,Several antiviral drugs are approved to treat HCMV infections.,0.39713636935842556
+9,77cylm1o,6158,drug,Nelfinavir inhibited the cytopathic effect induced by SARS-CoV infection.,0.39712181506882965
+67,envplcno,8553,drug, Phenothiazine and derivatives were tested for inhibition of SARS-CoV replication.,0.39691652599123367
+32,9ukf9vpg,19,drug,"We suggested that this drug could be of use in countering SARS-CoV-2 infections, subject to appropriate clinical testing.",0.39622818435163715
+68,lc4qvvou,5211,drug,Our results showed that inhibition of Hsp90 significantly reduced the replication of EBOV.,0.3962133928997102
+17,xyin35yh,12610,drug,D35 showed an additive anti-influenza effect with oseltamivir.,0.39616851164063893
+4,mkfwhv6v,4297,drug,In vitro efficacy against v2163 was shown with known inhibitors of SARS-CoV replication.,0.39532823281522605
+28,h3pvre4k,799,drug,"Therefore, inhibitors of APN may be effective against cancer and inflammation.",0.3951060240312624
+76,hh6h50t2,2659,drug,The synergistic effect of celastrol and a numbers of clinically used anti-HCV drugs was determined via a drug combination assay.,0.3949789574518198
+7,99j1u5ar,21601,drug,"Mechanistically, STE exerts multiple effects on enteroviral infection.",0.39488820906171124
+85,1qniriu0,105,drug,The potential effectiveness of treating 2019-nCoV by using some existing HIV drugs is also analyzed.,0.3947452886507983
+205,g5wpa2ee,71,drug,We found that many FDA approved drugs are potentially highly potent to 2019-nCoV.,0.39471107550606216
+77,xctglbtc,11737,drug,The combination of EOs and antibiotics may be beneficial in the alternative treatment of respiratory tract diseases.,0.394626060634157
+8,kzh5cnoq,23422,drug,Stomatitis can be induced by systemic administration of high doses of therapeutic agents.,0.3942069670292972
+44,r49ox9x9,2746,drug,The results show that flap closing was clearly observed when the inhibitors bind to the active site of SARS-CoV 3CLpro.,0.3942041240792888
+227,90j0a49r,12116,drug,These data indicate that saracatinib alone or in combination with gemcitabine can provide a new therapeutic option for the treatment of MERS-CoV infection.,0.3941147618672139
+53,wgzpd6te,16490,drug,The antiviral effect depended on the concentration of the drug.,0.39391904174839387
+1,5djtiomq,22985,drug,No therapeutic effect was observed with anti-infection treatment.,0.39387529920957753
+283,kynbqk3g,9619,drug,The application of antiviral drugs provides an immediate and direct control of influenza virus infection.,0.39369395347983543
+26,3svwv8i8,23160,drug,"Thus, DEX and RU486 should be avoided in the clinical treatment of HP-PRRS.",0.3936579993978534
+257,oruqlb1j,14470,drug,"Next, we tested the combined effects of the FMDV inhibition agents.",0.3936480642502366
+226,iw3g18s5,3689,drug,We observed that 2-AP treatment significantly reduced viral replication.,0.39363417144196006
+201,ipoj13va,13058,drug,"Ribavirin was found to further potentiate the antiviral effect of alisporivir in these cell culture-based infection models, but this combination treatment was unable to improve the outcome of SARS-CoV infection in a mouse model.",0.3935614195747181
+322,7soclp7j,873,drug,"Therefore, we evaluated the effect of protease inhibitors on RSV infection.",0.39335699595518014
+124,r0h2zhj2,7125,drug,These results indicated that these inhibitors could be potentially developed into anti-SARS drugs.,0.3931585625727791
+31,5t3ix35e,2068,drug,Calpain inhibition in CVB3-induced myocarditis showed significant treatment effect.,0.3930797161639031
+262,x2q9vyf2,18046,drug,Time course experiments show that griffithsin inhibits MERS-CoV infection at the binding step.,0.3929627904091482
+298,3nu5dfst,15942,drug,Antimicrobial drugs may be used to treat diarrheal illness in companion animals.,0.3929581536034052
+160,5lzzobl3,18949,drug," We report on chloroquine, a 4-amino-quinoline, as an effective inhibitor of the replication of the severe acute respiratory syndrome coronavirus (SARS-CoV) in vitro.",0.39294015845100844
+121,d93d3mds,9819,drug,These results suggest that the TCM de novo derivatives may be suitable candidates of dual-targeting drugs for influenza.,0.39287144236281374
+101,2irhi9i2,20477,drug,A few preliminary trials and in vitro data suggest the possibility of treating SARS with interferon.,0.3927036378387471
+189,tph5n7ak,3124,drug,"Here, we evaluated the therapeutic efficacy of our 3CLpro inhibitor in laboratory cats with FIP.",0.392698169465825
+42,6fp8nly0,16260,drug,"These radiation-protective agents, however, have many adverse effects.",0.39255896627670933
+331,0bwf8f1i,18901,drug,"Collectively, our results suggest that the Hsp90 inhibitor, pochonin D, could be an attractive antiviral therapeutic for treating HRV infection.",0.39255291025221034
+132,eqhgbxqq,2350,drug,"Here a leukemia drug, 6-thioguanine, was found to be a potent inhibitor of USP2.",0.3925155490648322
+25,77cylm1o,6156,drug,"To rapidly identify anti-SARS drugs available for clinical use, we screened a set of compounds that included antiviral drugs already in wide use.",0.3924939278314904
+72,zlygzsm1,2613,drug,"Niclosamide is approved for human use against helminthic infections, and has anti-neoplastic and antiviral effects.",0.39248783246596347
+452,r88zb7t4,16868,drug,We suggest that antimicrobial peptides (AMPs) may be used as alternative therapeutic agents against MERS-CoV infection.,0.39246500762091735
+60,yfpioqi5,15985,drug,For some viruses this effect has been attributed to interference with viral polyprotein processing.,0.3924565227799964
+301,prcn3vit,22210,drug,"Moreover, the existing drugs used to combat influenza may be ineffective to treat influenza pandemics due to the emergence of drug resistance in the pandemic virus strain.",0.3924232516409835
+22,u5ajsofp,19884,drug,Immune suppressive drugs such as prednisone or cyclophosphamide may slow disease progression but do not produce a cure.,0.39241756069989325
+105,6hcvh8f0,19708,drug,There is no effective drug to treat EV71 infection yet.,0.3923845380854586
+10,5oge12e4,7739,drug, The efficacy of the anti-inflammatory drug Bobel-24 against experimental infection by Cryptosporidium parvum was evaluated in neonatal lambs.,0.3923225936838641
+24,hh6h50t2,2664,drug,"Celastrol exhibited synergistic effects in combination with interferon-alpha, the NS5A inhibitor daclatasvir, and the NS5B inhibitor sofosbuvir.",0.39231145727125677
+197,d8p7mgqt,6856,drug,"No approved drug is available for the specific treatment of JEV infections, and the available vaccines are not effective against all clinical JEV isolates.",0.3922945430690438
+35,ldoqyqlg,5176,drug,The guideline recommends giving the antiviral drug oseltamivir at a dose of 75 mg twice daily for five days.,0.3922692960275121
+120,iptnwr45,4044,drug,"Therefore, besides antiviral drugs, immunosuppression drugs should also be included in infection treatment.",0.39222869057258386
+183,bqount8a,9969,drug,Current treatments include vaccines and drugs that target viral proteins.,0.39217006827359774
+57,h7g5ecc0,22642,drug,New herpesvirus drugs include viral helicase-primase and terminase inhibitors.,0.39214964799118857
+211,d1ge6g55,8033,drug,"Here, we identified an anti-asthmatic drug, montelukast, which is of safety profile for pregnant women and exhibited antiviral efficacy against ZIKV infection in vitro and in vivo.",0.39211720219378154
+70,s9o9x0im,15532,drug,"It was concluded that interferon would be ineffective as a therapeutic for TGEV, although it might be useful prophylactically.",0.3920975659980331
+34,pgxxkfc0,1258,drug,"However, m336 was found to have reduced efficacy against MERS-CoV strains with mutations in RBD, and HR2P-M2 showed low potency, thus limiting the clinical application of each when administered separately.",0.39207354311315595
+138,gcmrdote,15327,drug,Combination antiretroviral therapy fails in complete suppression of HIV-1 due to drug resistance and persistent latency.,0.3920416014070183
+231,b5u5hp2r,2173,drug,These combined results indicate that a multiplex miRNA strategy may be a promising therapeutic approach to attack escape-prone viral pathogens.,0.3919867890487409
+78,91wjhm15,5545,drug,All doses were well tolerated in uninfected mice.,0.3919051076605716
+233,5pxat7b4,6898,drug,"Moreover, the effect of induction of autophagy by Rapamycin on viral replication was tested.",0.3918218113082852
+74,7pim2j7z,24556,drug,"Although use of modern drugs for inflammation has a relieving effect, it is still unsatisfactory.",0.39180757466679883
+169,617zol31,2956,drug,"Through these analyses, a large drug combination is proposed, which may hypothetically greatly reduce the mortality rate.",0.39180198033975516
+82,0hbeso65,16935,drug,"In addition, treatment of recurrent HCV infection after liver transplantation is often compromised by enhanced adverse effects and limited efficacy of interferon-based therapies.",0.3917998386597816
+428,3moa7cpg,13241,drug,These data suggest that the inhibition of viral RNA-dependent RNA polymerases may be effective for treatment of ZIKV infection.,0.39174891460364936
+51,nv6jyagd,6914,drug,CQ significantly decreased the viral replication at concentrations lower than in clinical usage.,0.39173804109796556
+73,envplcno,8562,drug,Similar therapeutic promazine doses were not efficacious.,0.3916480970619452
+103,drrs2tc1,4866,drug,"However, neither drug could completely inhibit replication of SARS-CoV even at concentrations up to 100μg/ml.",0.3916375361975643
+16,xyin35yh,12611,drug,It was also effective in vivo.,0.3916237162252077
+100,can4cvkx,3459,drug,"In addition, the efficacy and side effects of NM in cancer patients are summarized in detail.",0.3916163188505227
+190,zaa8i9vh,6501,drug,CsA treatment resulted in significant inhibition of PEDV-triggered apoptosis and suppressed PEDV replication.,0.3916010995394486
+63,yy5guugq,14499,drug,MEDI8852 is effective in mice and ferrets with a therapeutic window superior to that of oseltamivir.,0.391553941254691
+11,ekxsv91t,23718,drug,The inhibitory effects of PA against IAV in vitro were evaluated by plaque assay and immunofluorescence assay.,0.39152872832089197
+167,9v7m4llw,23653,drug,"Therefore, oral applications of BKI 1369 could potentially be a therapeutic alternative against porcine cystoisosporosis.",0.39149938436939563
+48,0wql69vr,11832,drug,"In vitro combination therapy with recombinant feline interferon-ω, a biological response modifier currently registered for the treatment of FCV, demonstrated additive effects with a concurrent reduction in the IC50 of mefloquine.",0.3914883084059279
+46,dle938bt,7685,drug,Preventative measures for influenza include annual vaccination and treatment with antiviral drugs such as the neuraminidase inhibitors oseltamivir and zanamivir.,0.3914310144619838
+75,aonbvub5,6063,drug,"Pretreatment of the cells with a combination of three drugs (glycopyrronium, formoterol, and budesonide) exerted additive inhibitory effects on viral titers and cytokine production.",0.3913990927252014
+89,tnroeb1b,4885,drug,The time-of-addition effect of the drug on TGEV infection indicated that LiCl acted on the initial and late stage of TGEV infection.,0.3913723917965083
+113,pgr07l9b,7426,drug,"Consistently, treatment with the ACE-inhibitor Captopril decreased cardiac contractility in apelin knockout mice.",0.3913190247684828
+177,slqje8cq,24226,drug,Toxicity was induced by subsequent treatment with trypsin.,0.39128567175123685
+143,awof732n,6284,drug,No effective antiviral drugs against it are commercially available.,0.39123601615928727
+137,algs6573,4225,drug,Our results suggest that Siah-1 is targeted by both LMP-1 and hexachlorophene with opposite effects.,0.3912128179274425
+54,44bvju3g,11775,drug,"Routine antibiotic treatment of uncomplicated acute bronchitis is not recommended, regardless of duration of cough.",0.39121113734856583
+192,begn4tsd,14973,drug,"Importantly, many adjuvant drugs used together with fluconazole, a fungistatic drug, reduce tolerance without affecting resistance.",0.39120477281643634
+329,9ukf9vpg,16,drug,We identified a group of approved drugs that could inhibit clathrin-mediated endocytosis and thereby inhibit viral infection of cells (appendix).,0.39117821465321595
+247,7w1t5v18,12698,drug,The extent of papaverine-induced suppression of viral growth was dependent on drug dose and treatment regimen.,0.39116696515187355
+13,qovrstak,9513,drug,"One of the main molecular targets for anti-HCV drugs is the viral RNA-dependent RNA polymerase, NS5B.",0.39115667026919665
+61,kwz0b81g,411,drug,The combination of PF-4708671 and BI-D1870 treatment resulted in robust inhibition of RVFV replication.,0.3911399820543007
+365,86l110no,17880,drug,"To determine the potential anti-ZIKV inhibitors, we screened a library of clinical drugs with good safety profiles.",0.3911128850757993
+12,s0ps9rd0,20854,drug,Andrographolide derivatives were shown to inhibit α-glucosidase.,0.39111283324849305
+161,oquk4t96,14557,drug,"In addition, cells treated with lysosomotropic agents and serine protease inhibitors were resistant to PEDV.",0.3911052210050446
+355,3t2hgvdo,17696,drug,Our observations suggest a possible therapeutic application of this agent for treating inflammatory disorders in lung.,0.39108345738722644
+140,5o9bbspc,299,drug,"Depending on their clinical presentation, azithromycin was added to the treatment.",0.3910667506032203
+98,mfy5ln8w,4583,drug,"Subsequently, compounds were synthesized to validate their efficacy in wet lab experiments.",0.39106570772370464
+284,ke5cjevy,10802,drug,The results in vitro showed that low doses of OTA significantly increased PCV2 DNA copies and the number of infected cells.,0.39099332964276146
+370,2ngr682l,4104,drug,IBV replication was increased by blocking caspase activation.,0.3909707518307029
+0,hpuogyb0,5244,drug,Chronic hepatitis B can be treated with interferon or a combination of nucleos(t)ide analogues.,0.3909383254222076
+265,j0nooxmd,843,drug,"Additionally, HCV replication and autophagy were inhibited more strongly by combination of these inhibitors.",0.39093800745920654
+285,g5wpa2ee,67,drug,"Currently, there is no effective anti-2019-nCoV medication.",0.3909095820326704
+239,owjgs6ja,17758,drug,We screened an FDA approved drug library and found that an anticoagulant agent dipyridamole (DIP) suppressed HCoV-19 replication at an EC50 of 100 nM in vitro.,0.39083539212049423
+37,n1ugd7cb,4894,drug,Standard-of-care is treatment with neuraminidase inhibitors that prevent viral dissemination.,0.3907980361035548
+3,pslcp5ob,11050,drug,"Currently, no therapy with proven efficacy is available.",0.3907664440914614
+144,ey094j4j,11870,drug,New drugs targeting different pathways would be beneficial.,0.39070732315226514
+376,j0496jb7,5744,drug,"Furthermore, several antivirals shown to be effective against other viruses were tested in vitro.",0.390701325029987
+218,begn4tsd,14975,drug,"Accordingly, in an invertebrate infection model, adjuvant combination therapy was significantly more effective than fluconazole alone in treating highly tolerant isolates and did not improve the treatment of isolates with low tolerance levels.",0.39070051772266495
+80,q3fyo3rx,10116,drug,The activity of pentoxifylline against JEV was evaluated in vitro using cytopathic effect inhibition and plaque reduction assays.,0.39068439535960936
+170,4fef7smf,16505,drug,"Therefore, the identification of new drug targets is of clinical relevance.",0.3906843257674813
+394,envplcno,8560,drug,These data portended the poor efficacy of promazine in a SARS-CoV mouse lung replication model.,0.39066012776168474
+38,3z31cvof,11390,drug,"The clinical effects of two non-steroidal anti-inflammatory drugs (NSAIDs), meloxicam and flunixin meglumine, were also examined.",0.3906584176503345
+96,e7pfolxs,3923,drug,Our results suggest that the proteasome is indeed a barrier to tumor targeting by AAVP and indicate that a combination of proteasome‐inhibiting drugs and AAVP should be considered for clinical anticancer therapy.,0.3906557260590998
+6,nv6jyagd,6913,drug," The antiviral effects of chloroquine (CQ) on human coronavirus 229E (HCoV-229E) infection of human fetal lung cell line, L132 are reported.",0.3906213923896959
+275,8dbenul1,12019,drug,We selected 11 drugs with potential anti-EVD therapeutic effects and summarized their evidence.,0.39061637803611937
+45,t6qr41wc,2366,drug,"However, about half of the CH–C patients are still at risk of fatal liver cirrhosis and hepatocellular carcinoma.",0.3906141163383638
+65,odcbd2pm,17213,drug,The therapeutic relevance of GA-A treatment was also tested in vivo using the EL4 syngeneic mouse model of metastatic lymphoma.,0.39058316793176284
+179,n0acj460,9882,drug,"Ribavirin and pegylated interferon-α are the only available therapies, but both have side effects that are not acceptable for prophylaxis or treatment of mild infections.",0.39056726502897765
+214,47srfqzl,3451,drug,The evaluated potential Mcl-1 ligands are then compared with their clinical use.,0.39053885579937647
+277,zx02gxw0,18802,drug,EXPERT OPINION: No anti-MERS-CoV therapeutic is approved for human use.,0.39047318487796995
+228,nadhhe5k,4688,drug,The impact of these inhibitors on infection of DCs and CD4TL was evaluated as well.,0.39046987294402646
+128,vz1tfnus,2968,drug,An obvious strategy to optimise antiviral therapy is to combine drugs with different modes of action.,0.3904656249210113
+152,47srfqzl,3453,drug,The partial validation also favors the idea that the other half of the top 30 potential drugs could be used in the treatment of cancer.,0.39044956908504275
+225,f6igj0pd,22305,drug,"In addition, supplementing antibiotic therapy with lisinopril or derivatives with endothelial protective activities may decrease the severity of leptospirosis.",0.3904469457142203
+293,7xjdryoq,11947,drug,3-deaza-adenosine was identified as a new inhibitor of CHIKV replication.,0.39040650458623727
+531,iks3crqb,24217,drug,This review describes the suppressive effects of CsA on coronavirus replication.,0.390401258830876
+141,fw6q4qpq,20132,drug,"Finally, in vitro and in vivo studies further confirm that the treatment effect of chemoradiotherapy for LC-CD133(+) can be improved by the treatment of Oct-4 siRNA.",0.39036334942672524
+149,3gz4dyie,10424,drug,The results showed that AD3BF2D ligand can be used as a good candidate for neuraminidase inhibitor to cope with influenza A virus subtype H1N1.,0.3903541887746477
+236,p9o2cwgl,17209,drug,"All together, these data suggest that Flt3L combined with low-dose of Rapa could be an effective therapeutic approach to induce tolerance in clinical setting of transplantation.",0.39035082460284853
+366,ubwpyt3f,13497,drug,Ribavirin has proven to be effective against several viruses in the clinical setting and a multitude of viruses in vitro.,0.39032650814398223
+116,rtqkvf63,23473,drug,"In selected cases of bacterial resistance or intolerance to first-line antibiotics, other anti-infective agents might be recommended.",0.3902698533272069
+371,yzc4bosn,21410,drug,"Pharmacological inhibition of essential viral proteins, mostly enzymes, is an effective therapeutic alternative in the absence of effective vaccines.",0.39026046281915316
+86,s5c9h4lm,10839,drug,CWE treatment in vitro decreased the mRNA expression of TNF-α.,0.39025311103853666
+260,hj675z1b,263,drug,"Given the 98% amino acid similarity of the SARS-CoV and SARS-CoV-2 RdRps, we expect these nucleotide analogues would also inhibit the SARS-CoV-2 polymerase.",0.39024817110170434
+238,xyin35yh,12613,drug,"In addition, because administration of D35 into the virus-infected mice suppressed viral replication and weight loss, clinical application of D35 could be considered.",0.3902361678907614
+52,2528jrn6,18710,drug,"During the treatment, HBV replication was at a high level in mice treated with dexamethasone, cyclosporine, and cyclophosphamide, whereas was terminated in mice treated with mycophenolate mofetil.",0.39022774453246895
+327,ptihe6fu,2052,drug,"Thus, non-immunosuppressive CsA derivatives effectively inhibit HCoV-229E replication suggesting them as possible candidates for the treatment of HCoV infection.",0.3901997896995338
+258,i3681ul1,17700,drug,"In this study, in vivo efficacy of verdinexor was further evaluated in two animal models or influenza virus infection, mice and ferrets.",0.39019743739111096
+436,c2q3ycfv,7997,drug,Our findings suggest that glycyrrhizin should be assessed for treatment of SARS.,0.3901853798602629
+204,hty71qj7,3558,drug,Time-of-addition assays showed that Bortezomib was an effective inhibitor of viral multiplication even when the drug was introduced many hours post exposure to the virus.,0.3901376449018656
+263,enc0da59,17709,drug,"Akin to (R)-PMPDAP, both prodrugs inhibit FIV replication in a selective manner.",0.3901172719237524
+173,l5eeurgd,4675,drug,"Sertraline and rolipram had no effect on virus replication in vitro and in vivo, but significantly reduced lung inflammation.",0.3901139521016039
+335,xyc6a1fw,20564,drug,"Using live EBOV, eighteen candidate compounds were screened for antiviral activity in vitro.",0.39011114468044317
+107,9463h041,24665,drug,Our results indicate that antibody therapy might be beneficial in reducing viral loads and delaying disease progression during H5N1 HPAI virus infection in clinical cases and combined treatment with other antiviral compounds should improve the protective effects of antibody therapy against H5N1 HPAI virus infection.,0.3901031776427683
+58,s8tq6d68,23168,drug,The same effect was not observed in patients with diseases other than dengue.,0.3900606184362972
+117,mm83ml06,2874,drug,"Most strikingly, combinatory treatment with DIs and proteasome inhibitors synergistically blocks virus replication at concentrations where mono-treatment was ineffective, indicating that DIs can boost the therapeutic effect of proteasome inhibitors.",0.39001382420589004
+154,0rr2y17d,24778,drug,"Imatinib is the first-line treatment of CML; however, many patients are resistant to this drug.",0.39000298342575934
+344,9hnal9ad,12188,drug,"These treatments, however, did not inhibit virus replication in primary infected cells.",0.3899805142586659
+90,bc00vths,8956,drug,The JAK1/2 inhibitor ruxolitinib was administered on an off-label basis.,0.3899778383093915
+187,wwkdum94,24770,drug,DDX3 knockdown inhibits JEV replication.,0.3899658504727491
+202,2irhi9i2,20472,drug,We summarize 14 clinical reports and attempt to assess the effectiveness of various treatment regimens.,0.3899612394821972
+59,qdt90c22,33,drug,Our analysis revealed 20 compounds that could be clustered into three groups based on their chemical features.,0.3898746040692277
+56,gzr4dec3,7807,drug,This effect did not involve degradation of viral RNA by eosinophil granule RNases.,0.3898693544174164
+95,uomf1u79,8167,drug,These opposite effects are caused by separate fungal components.,0.3898447135970792
+133,axi7qxjl,21464,drug,CONCLUSION: A nasal spray containing carrageenan and Zanamivir should therefore be tested for prevention and treatment of uncomplicated influenza in clinical trials.,0.3898333181394163
+306,1p2r5xjc,7966,drug,This review summarized the therapeutic effect and the anticancer mechanisms of lycorine.,0.3898097121900203
+106,o2xcjvyw,4032,drug,Cisplatin is generally used in clinic for gastric cancer treatment but with toxic side effects and develops resistance.,0.38980761664331703
+423,32ju2h1g,3419,drug,The docking results suggest two major modes for the initial binding of these inhibitors to the active site of SARS-CoV Mpro.,0.3897760751420189
+88,kw3mr1ro,9472,drug,"Current therapy therefore consists solely of the administration of analgesics, antipyretics and anti-inflammatory agents to relieve symptoms.",0.3897514934566572
+219,lquhmru1,25539,drug,"In Sierra Leone, approximately 100 Ebola patients were treated with this combination, and reports indicate that survival was greatly improved.",0.3897065068895443
+489,0ewcptub,4066,drug,"During this time, only a few drugs were approved to treat acute viral infections, mainly influenza.",0.389664380256308
+299,p0ydzjre,8327,drug,Time course experiments indicated that the degradation occurs early after infection.,0.38961345763599564
+564,rv8yosr7,10524,drug,These compounds could potentially be inhibitors for curing YHV infection.,0.3896100075534928
+151,bc00vths,8961,drug,"Clinical control of skin complications was obtained, and one patient discontinued steroid treatment.",0.3896092634252958
+109,h9bzx8un,11355,drug,"Cancer chemotherapy possesses high toxicity, particularly when a higher concentration of drugs is administered to patients.",0.38960385914039236
+208,0mjizsoo,10028,drug,RESULTS: All chemotherapy drugs tested were capable of inducing similar RNA disruption patterns.,0.38958179226077805
+50,l5eeurgd,4677,drug,"Lung histopathology of mice treated with combinations revealed significantly reduced consolidation, infiltration and alveolitis compared to oseltamivir alone.",0.3895708655212126
+347,hp6m6qrn,7959,drug,So far there is no effective drug for the treatment of SARS.,0.38955614636292624
+445,q60ege66,15974,drug,The results show that these assays can be applied to high-throughput screening for identification of inhibitors selectively active against SARS-CoV.,0.3895522916192389
+600,7mqw21zj,22116,drug,Here we show its antiviral efficacy against noroviruses.,0.3895244448225803
+334,ccwhf276,6926,drug,"Despite the effectiveness of combination antiretroviral treatment (cART) against HIV-1, evidence indicates that residual infection persists in different cell types.",0.3895155342616171
+94,w436rjdr,8079,drug,"In addition, the therapeutic efficacy of celastrol was evaluated by monitoring survival rates and clinical scores in a DENV-infected Institute of Cancer Research (ICR) suckling mouse model.",0.38946244734268287
+41,jdjdeeh1,25142,drug,Neuraminidase inhibitors for viral pneumonia have been shown to reduce transmission in cases of exposure and to improve the clinical progress of patients in intensive care; their use in common infections is not recommended.,0.3894601391064462
+97,09b07mty,25677,drug,"However, these soluble factors were not produced by PMN-II treated with GL.",0.3894576402640361
+66,vbayngh0,89,drug,A TMPRSS2 inhibitor approved for clinical use blocked entry and might constitute a treatment option.,0.38943965104864553
+261,yepiag5m,9207,drug,"SRTAW04 exerted similar protective effects in EAE spinal cords, with decreased demyelination.",0.38943869003591997
+408,8dbenul1,12012,drug,"We included drug screening, preclinical studies, and clinical studies on repurposed drugs for the treatment of EVD.",0.3894247913268354
+400,uz0m1o0q,11127,drug,"Finally, using a genome-based drug repurposing approach, we identified several drugs predicted to regulate the host response to H7N9 that may act as potential antivirals, including several kinase inhibitors, as well as FDA-approved drugs, such as troglitazone and minocycline.",0.38936228205224493
+232,4fef7smf,16504,drug,"Additionally, side effects and the risk to cause birth defects limit the use of currently approved antivirals against HCMV.",0.389348581983608
+330,8sc6nbqp,791,drug,A compound library consisting of 960 commercially available drugs and biologically active substances was screened for inhibition of SARS-CoV 3CL protease.,0.3893320803889471
+111,u8h515fh,3621,drug,"The antitumor efficacy of GA-DM was also investigated in vivo in murine B16 melanoma model, where GA-DM treatment slowed tumor formation with a significant reduction in tumor volume.",0.3893192605586105
+317,g52dclx2,11526,drug,"Although SRI 29365 and analogs inhibit hRSV replication in vitro, this work suggests that the G-protein may not be a valid drug target in vivo.",0.38931595500406746
+244,82n96ukr,18369,drug,No HCV vaccine is currently available and treatment with antiviral therapy is associated with adverse side effects.,0.38930125539354954
+292,45glufnh,17070,drug,The combination of either MDH-1-38 or NS1040 with other FDA-approved HIV drugs yielded additive to synergistic antiviral interactions with no evidence of antiviral antagonism or synergistic toxicity.,0.38924816398146195
+624,i4rldhz2,2702,drug,These findings provide potential inhibitors for SARS-CoV viral infection and replication.,0.38920653073127737
+148,u7sjblrc,1626,drug,Overexpression of p38/JNK attenuated the inhibitory effect of BX-795 on HSV replication.,0.3891613273024884
+188,7nmaf6u0,12289,drug,: Intravenous plasma administration has been recommended in healthy or sick calves with failure of passive immunity.,0.3891530903038732
+302,e8fknk4m,15673,drug,Oral rimantadine treatment did not reduce the otologic manifestations of experimental influenza in adults or natural influenza in children.,0.3891517023831198
+303,j35b7917,7732,drug,Neither vaccine nor effective antiviral therapy is available to prevent and treat RSV infection.,0.389134736262699
+91,ay4cnzn5,17547,drug,Conclusions Interferon-β1b with mycophenolic acid should be considered in treatment trials of MERS.,0.3891345455434125
+447,mivxm8oh,20243,drug,"Thus, the optimal treatment for SARS is unknown.",0.38912626020903324
+254,zhauwxye,14260,drug,"In the influenza mouse model, patchouli alcohol showed obvious protection against the viral infection at a dose of 5 mg/kg/day.",0.38908874091758333
+388,64ihr98f,18787,drug,"Collectively, these results suggest that FOXO3A reactivation may contribute to the therapeutic effects of DAC in MDS.",0.38905562404780275
+469,c97kctjz,7342,drug,"Finally, high glucose absorption was subsequently found to promote TGEV replication.",0.38904924499914956
+273,u1xa44nw,24758,drug,The vector was tolerated and 100% efficacious against challenge from a clinical strain of CCHFV.,0.38904156564863757
+427,o8ygdd14,10571,drug,The in vitro antiviral activity of interferon alfacon1 against SARS-CoV suggests continued evaluation of interferon alfacon1 as a therapeutic treatment for patients infected with SARS-CoV.,0.3890053918129727
+43,5oge12e4,7742,drug,"The therapeutic treatment was initiated at the onset of diarrhoea, after confirmation of infection, and was continued for six consecutive days.",0.38900468090172535
+115,i8znp72t,9704,drug,We assessed the impact of these features on biodistribution and antiviral efficacy in vitro and in vivo.,0.38900064554133207
+297,ia3zu7yf,2393,drug,Interpretation Routine use of molecular POCT for respiratory viruses did not reduce the proportion of patients treated with antibiotics.,0.38898722512458445
+64,qro699q2,16834,drug,"In severe and complicated cases, antibiotics combined with topical steroids remain the treatment of choice.",0.38896668987319444
+196,pd9lt4n2,20073,drug,"Moreover, heparin was shown to bind to ephrin-B3 and to restrain infection of permissive cells in vitro.",0.3889657879149723
+282,eermgk02,22873,drug,T3 did not prevent the damage induced by the low dose of DOC.,0.3889559569113733
+199,a21ub1e9,6548,drug,"Treatment for RSV is mainly supportive since the only approved therapy, a monoclonal antibody, is recommended for prophylactic use in high-risk patients.",0.3889520002527579
+55,owjgs6ja,17765,drug,Larger scale clinical trials of DIP are needed to validate these therapeutic effects.,0.38891066958960907
+71,33gvt7pe,3094,drug,"Host cyclophilin inhibitors have shown promising effects both in vitro and in patients to prevent the emergence of resistance and to cure HCV infection, either alone or in combination with other agents.",0.38888891695748107
+478,2tji14il,3232,drug,The coupling of antivirals with an effective vaccine will accelerate eradication of the disease.,0.3888646608085655
+280,s1p2k9mi,9073,drug,This anti-tumor effect is most probably related to the inhibition of farnesyltransferase as indicated by molecular docking.,0.3888526829906648
+19,05lnj3w0,1372,drug,"Under these conditions entry could be fully blocked by combined treatment with dynasore and the amiloride derivative EIPA, the hallmark inhibitor of macropinocytosis, whereas either drug alone had no effect.",0.3888466052952495
+155,iw3g18s5,3690,drug,We also treated PKR-knockdown cells with 2-AP and inoculated with RSV.,0.38884051415336274
+118,jdjdeeh1,25144,drug,"Apart from these drugs, no antiviral has been shown to be effective.",0.3888345007837774
+391,mafz21no,7157,drug,"Moreover, viral yield was increased when autophagy was induced using rapamycin.",0.38882768443994925
+516,ccwhf276,6934,drug,Luteolin was unable to inhibit viral reverse transcription.,0.3888242164382351
+110,diemj28t,2786,drug,"Currently, only a few drugs, which function as influenza neuraminidase (NA) inhibitors and M2 ion channel protein inhibitors, are approved in clinical.",0.3888056540063712
+524,wicc796j,15001,drug,There were no randomized clinical trials to recommend specific therapy for the treatment of MERS-CoV infection.,0.38880519727388607
+287,57zy6unz,7349,drug,"The commonly used proton pump inhibitors, Omeprazole and Esomeprazole were also able to inhibit entry of all PVs tested but at higher drug concentrations than may be achieved in vivo.",0.3887874463609229
+358,1b3x7p6u,15747,drug,The targeted clinical evaluations fail to explore other potential therapeutic applications of the candidate drug.,0.388786351555423
+313,o4c2i1q1,13669,drug,The surgical procedure apparently did not cause harmful effects of villi.,0.38872462178183126
+104,nrvgnsp4,13572,drug,"Systemic corticosteroids administered in high dose may increase the risk of mortality and morbidity in patients with severe influenza and should not be used, while the clinical utility of low dose systemic corticosteroids requires further investigation.",0.38871473292334136
+399,7soclp7j,878,drug,"Of all the inhibitors tested, AEBSF and TPCK significantly decreased RSV infection.",0.38864572057761076
+288,iw3g18s5,3688,drug,"As an alternative method to block PKR activation, we used treatment with the kinase inhibitor 2-aminopurine (2-AP).",0.38863729807261355
+425,d8p7mgqt,6868,drug,"The in vivo efficacy and toxicity of manidipine were investigated with a mouse model of JEV infection, and the viral target was identified by generating an adaptive mutant.",0.3886368567897481
+375,8norumv6,5592,drug,"Although therapy with TDF/FTC gives excellent control of HBV replication, there are only a few patients who achieve a functional cure.",0.388630187711946
+338,45glufnh,17071,drug,Serial dose escalation was used in attempts to select for HIV strains resistant to MDH-1-38 and NS1040.,0.38861609283517806
+252,qro699q2,16833,drug,"Therefore, the first line of treatment for these cases are intranasal steroids and not antibiotics.",0.38861502437390993
+349,nqw6y8ku,4109,drug,The efficacy of these drugs validates entry as a point of intervention in viral life cycles.,0.38859869575444594
+241,1wae0134,1144,drug,Some glycyrrhizin acid derivatives were found to inhibit SARS-CoV replication in vitro with EC50 values ranging from 5 to 50 μM.,0.38858814946345205
+422,ia3zu7yf,2378,drug,We aimed to assess the effect of routine POCT on a broad range of clinical outcomes including antibiotic use.,0.38858130515581807
+390,9utbwy5r,12528,drug,Time course experiments indicate that the degradation occurs early after infection.,0.38857879584245625
+364,ut71y7sd,4759,drug,"In this mini-review, we summarize the antiviral effects reported for several natural products and herbal medicines.",0.38856477228975533
+281,61t4e1eg,5107,drug,CARMELINA® is the only clinical trial of a DPP-4 inhibitor powered to evaluate kidney outcomes.,0.3885542314636042
+259,45ppx0fh,22754,drug,"Finally, the drug targeted delivery was further evaluated by using pRNA monomers or dimers, which carried both the siRNA/2A and folate ligand and demonstrated that both of them strongly inhibited CVB3 replication.",0.38854544543364716
+99,ywnr8d48,12547,drug,Anti-virus effects were evaluated using plaque reduction assay on H1N1 and H3N2 viruses.,0.38854268015586757
+363,fnojbipn,2271,drug,The results were verified using RNAi silencing and chemical inhibitors.,0.3885144297474144
+131,x6ehkp6t,7630,drug,The inhibitory effect of indomethacin was progressively reduced if infection of cells was delayed for increasing times after drug removal.,0.3885109723197867
+463,99d8e6j8,2202,drug,SADS-CoV-infected cells showed evidence of apoptosis in vitro and in vivo.,0.38850117422381264
+509,xyin35yh,12603,drug," The most effective drugs available to treat influenza are neuraminidase (NA) inhibitors, which provide important additional measures for the control of influenza virus infections.",0.3884828714371808
+442,8tt31t24,21007,drug,"For a clinical diagnosis, FCV-related symptoms should be revisited.",0.38846621145332255
+198,i2k8yteb,19110,drug,"Proton pump inhibitor (PPI) drugs are effective at improving to GERD symptoms, however they have demonstrated only modest and variable effects on asthma control in the setting of co-morbid GERD.",0.38846129486353265
+362,qkcfisjl,13314,drug,"When treated with the myristoylation inhibitor, the G2A mutant virus was resistant to the drug.",0.3884560981101289
+157,j09mf1ad,1680,drug,Conclusions GS-327073 is a potent in vitro inhibitor of HCV replication either alone or in combination with other selective HCV inhibitors.,0.38841478885433217
+401,v9s8xynb,1981,drug,"More than 40 compounds have been formally licensed for clinical use as antiviral drugs, and half of these are used for the treatment of HIV infections.",0.38840233856978823
+295,eug50ls4,11608,drug,"Quercetin may act in more than one way to deter viral infection, exhibiting some preventive and a powerful therapeutic effect against EV71.",0.388390996650046
+356,0wql69vr,11833,drug,These results are the first report of antiviral effects of mefloquine against a calicivirus and support further in vitro and in vivo evaluation of this compound as an antiviral therapeutic for FCV.,0.388382979445901
+33,9lkfjvwo,18065,drug,There is neither a vaccine nor effective treatment.,0.38835386711748715
+495,56fyy9mn,11744,drug,"ICZ also exhibited antiviral effect in cells after viral infection, suggesting that ICZ could potentially be used as a therapeutic.",0.38834771200608825
+529,s8tq6d68,23163,drug,"As chloroquine, an antimalarial agent, has shown some antiviral effects, this study evaluated its effect in patients with dengue.",0.38832991143491175
+272,xctglbtc,11736,drug,"However, their effect is lower than that of the reference antibiotics.",0.38829918855675144
+269,ukz2t850,20295,drug,The anti-nucleolar effects were most pronounced in postmitotic neurons.,0.3882946778909216
+194,7w1t5v18,12700,drug,"The cyclic nucleotide, cGMP, nullified the inhibitory effect of papaverine if added to cells during drug treatment.",0.38828866611949053
+253,qebbkr6d,114,drug,"Our in silico screening followed by wet-lab validation indicated that a poly-ADP-ribose polymerase 1 (PARP1) inhibitor, CVL218, currently in Phase I clinical trial, may be repurposed to treat COVID-19.",0.38825493540098377
+420,vz1tfnus,2965,drug," Observational data suggest that the treatment of influenza infection with neuraminidase inhibitors decreases progression to more severe illness, especially when treatment is started soon after symptom onset.",0.38825013914423945
+213,b31ctbat,236,drug,Possible targets of these compounds and potential drugs acting on a certain target were predicted.,0.388247632287972
+411,7ujqdujd,6636,drug,"More than 40 compounds have been formally licensed for clinical use as antiviral drugs, and half of these are used for the treatment of HIV infections.",0.38824343174895287
+290,ar1yjoux,9538,drug,"However, vaccines or effective drugs are unavailable to date.",0.3882183144932716
+159,oh45ifkx,16193,drug,"Results showed that, rupintrivir efficiently inhibits the replication of respiratory picornaviruses in a dose dependent manner and prevents the impairment of the mucociliary clearance.",0.38820332630873017
+311,p1ajw8mq,25575,drug,"In addition, corticosteroids use should not be regarded as routine pharmacologic therapy.",0.38820121232275556
+510,str19r9a,24398,drug,Larger randomized trials are needed to better evaluate the efficacy of these treatment regimens for MERS-CoV.,0.3882006969741495
+182,l5eeurgd,4671,drug,"We evaluated the effect of a neuraminidase inhibitor in combination with immunomodulatory drugs in vitro and in a mouse model of influenza A H1N1 infection by determining survival rate, lung inflammation markers and histopathology.",0.3881888209772362
+309,64ihr98f,18783,drug,"Currently, the recommended treatment for patients with high-risk MDS is the methylation agent decitabine (DAC), a drug that can induce the reexpression of silenced tumor suppressor genes.",0.3881723312913272
+367,itz0bdrc,4605,drug,"Antiviral agents can be used for prophylaxis, suppression, preemptive therapy, or treatment of overt disease.",0.38816665402326733
+475,ke5cjevy,10801,drug,The effects of OTA on PCV2 replication and their mechanisms were investigated in vitro and in vivo.,0.38815697991038894
+193,hq5um68k,176,drug,Our results are the first to validate that DHODH is an attractive host target through high antiviral efficacy in vivo and low virus replication in DHODH knocking-out cells.,0.38815626509764006
+166,gw3ej4ow,12560,drug,Convalescent plasma appears to be useful as an adjunctive therapy for the treatment of H5N1 and H1N1pdm09 infections.,0.3881524077374065
+444,9463h041,24663,drug,Protective effects were also noted in macaques under immunosuppression.,0.3881233764675334
+243,b4rnvxfk,2588,drug,"Despite the almost 100 plant-derived compounds that are in clinical trials, few target HIV-1 infection.",0.3881181770910031
+212,prcsfhdz,11545,drug,"However, treatment with APN-specific antibody and inhibitors did not completely block PDCoV infection in IPI-2I porcine intestinal epithelial cells.",0.3881028299925638
+40,ir8ibr87,2687,drug,It is important to have potent and safe drugs at hand that can be used for the treatment or prophylaxis of such infections.,0.38808980549365607
+210,40voizbv,21694,drug,"Mechanistically, single channel analyses showed that the drugs reduced mean open time consistent with a direct action on the pore.",0.38807817014242435
+563,n2knqj4z,18664,drug,These results indicated that the replication of the S-intact PEDV was enhanced during coinfection in piglets.,0.3880701314530957
+266,d93d3mds,9818,drug,Multiple anchors and lack of binding to residues prone to mutation suggest that the TCM de novo derivatives may be resistant to drug resistance and are advantageous over conventional H1N1 treatments such as oseltamivir.,0.38806159305157284
+558,d1ge6g55,8032,drug,And the drugs used for treating ZIKV in pregnant women require a higher safety profile.,0.38805549663173733
+486,eug50ls4,11604,drug,"Moreover, quercetin mediated its powerful therapeutic effects primarily by blocking the early post-attachment stage of viral infection.",0.388035419805655
+168,vjl43cgk,19698,drug,"Although the clinical cure rate is similar to that obtained with other antibiotics, the time between exacerbations could be increased.",0.3880339375318471
+339,kwz0b81g,407,drug,"Furthermore, inhibiting p70 S6K through treatment with the FDA approved drug rapamycin prevents RVFV pathogenesis in a mouse model of infection.",0.388032282714309
+146,ll6f6brf,603,drug,Inhibition of AP-W may account for some of the side effects noted with the clinical use of the sulphydryl converting enzyme inhibitors.,0.3879478968329083
+136,y6xuxj16,14425,drug,"Antiviral therapy is effective when treatment is initiated within 48h of symptom onset, and delaying treatment beyond this time frame is associated with decreased efficacy.",0.3879341924345889
+320,60000a5l,16310,drug,"We previously reported in randomized controlled trials that maoto, a traditional herbal medicine, showed clinical and virological efficacy for seasonal influenza.",0.3879205641103222
+346,bgt7n2pq,15789,drug,Box-Tiao intervention analysis was applied to assess the impact of price adjustments on monthly utilization of and expenditures on these drugs.,0.3878789726095664
+336,e1fex82s,17260,drug,Knockdown of ACBD3 or PI4KB suppressed AiV RNA replication.,0.3878520111524785
+360,4z8e8ad9,24181,drug,We retrospectively evaluated 68 consecutive patients treated with infliximab for aGvHD.,0.3878227799386838
+549,f8qeytxc,2940,drug,"Our results indicate that camostat, or similar serine protease inhibitors, might be an effective option for treatment of SARS and potentially MERS, while vinyl sulfone-based inhibitors are excellent lead candidates for Ebola virus therapeutics.",0.38781889371478906
+333,r8zfdsix,7938,drug,Development and high-throughput screening of efficacious drugs is therefore critical.,0.3877974926939299
+235,tdlcb9bf,329,drug,Depending on their clinical presentation azithromycin was added to the treatment.,0.3877476536054581
+49,begn4tsd,14969,drug,Tolerance at supra-MIC antifungal drug concentrations is rarely quantified and current clinical recommendations suggest it be ignored.,0.3877255442388448
+163,yj9mb88g,15725,drug,"To determine the effect on endocrine resistance, MCF7 cells were cultured in the supernatant of different TAM, and then treated with tamoxifen.",0.38772206892362876
+15,s1hbpvn7,4141,drug,"Moreover, inhibition efficacy did not differ whether SPINT2 was added at the time of infection or 24 hours post-infection.",0.38771942308898116
+350,t2d2egyx,21298,drug,Cytotoxicity results showed that KIOM 198 is nontoxic on the cells and suggest that it can be delivered safely for therapy.,0.3877130318204073
+181,9zfaehll,21187,drug,"5UP1 treatment generated up to a 4.5log reduction in infectious PRRSV yield, while a control P-PMO had no effect on viral titer.",0.38768020634684414
+473,ji0njeha,6494,drug,"In contrast, GSK3β had no effect on replication of subgenomic HEV replicon.",0.3876630633040158
+234,qfphvgg6,20524,drug,"In vitro assays showed that C5a, a complement activation product, induced significant macrophage migration and treatment with HCP prevented it.",0.38766197003609654
+589,8mf49adq,9439,drug,"In addition, combinatorial treatment of the host-targeting diphyllin with pathogen-targeting therapeutics (oseltamivir and amantadine) demonstrates enhanced antiviral effects and cell protection in vitro.",0.38765759541342876
+310,ita2okbx,23047,drug,"The current therapeutic arsenal against viral infections remains limited, with often poor efficacy and incomplete coverage, and appears inadequate to face the emergence of drug resistance.",0.3876519803746628
+579,3mw66vxm,8875,drug,"The clinical limitation of current antiviral drugs for HBV, such as lamivudine, is the emergence of drug-resistant viral strains during prolonged antiviral therapy.",0.3876454362191802
+440,zaa8i9vh,6498,drug,PEDV-infected cells showed evidence of apoptosis in vitro and in vivo.,0.38764406012760566
+36,areh42n6,995,drug,"The ZINC drugs-now library was screened in a consensus high-throughput pharmacophore modeling and molecular docking approach by Vina, Glide, GOLD and MM-GBSA.",0.38757831252669805
+279,sgh6adb2,1606,drug,"An E1 inhibitor and inhibitors of E3 are now in clinical trial, with some objective responses reported.",0.38757611285543064
+545,8gncbgot,145,drug,A number of novel compounds as well as therapeutics licensed for other conditions appear to have in vitro efficacy against the 2019-nCoV.,0.38756746716200013
+162,vkvls2zp,10813,drug,"However, their efficacy might be obscured by their effects on unrecognized functions of CD13, resulting in unexpected complications.",0.3875420013357466
+147,y8z8gkpb,17775,drug,The standard treatment for imatinib-induced pneumonitis is to discontinue the medication and optionally administer corticosteroids.,0.38752388176905145
+315,pgzogpa2,686,drug,All inhibitors were evaluated in an in vitro assay using purified enzyme and fluorogenic substrate peptide.,0.3875206176714538
+741,occ03hp0,1317,drug,It suggests that the available drugs in these viruses could be used to fight SARS disease.,0.3875090930785252
+457,g9vcchrh,17494,drug,We assessed the prophylactic and therapeutic efficacy of m336 by using well-characterized transgenic mice shown to be highly sensitive to MERS-CoV infection and disease.,0.3874999616731115
+546,fzgwfb27,11099,drug,"Through our screening of viral entry inhibitors, we found that chloroquine (CQ), a commonly used antimalarial and a FDA-approved drug that has also been repurposed against other pathogens, could significantly inhibit ZIKV infection in vitro, by blocking virus internalization.",0.38746860103979064
+20,j48701zd,3804,drug,"Moreover, inhibition efficacy did not differ whether SPINT2 was added at the time of infection or 24 h post-infection.",0.38745233879865676
+286,r5p5helx,2809,drug,The available treatment modalities are very costly and produces severe side effects.,0.3874509799429576
+203,n5adf3tj,23560,drug,Studies were performed in CXCL10 knockout mice and mice treated with anti-CXCL10 immunoglobulin G (IgG).,0.38744795216579964
+673,a9yaj8mw,15590,drug,"Finally, none of the current anti-HCMV drugs have been approved for the treatment of congenital infections.",0.38744655880615003
+513,ji0njeha,6493,drug,"Conversely, overexpression of GSK3β resulted in enhanced HCV replication.",0.3874377319599052
+14,y13gz4wz,13307,drug,Side effects of treatment included transient stinging upon injection and occasional foci of subcutaneous fibrosis and hair loss.,0.3874018706528983
+467,t6n95laz,12914,drug,Protein analysis was performed on 15 serum samples using iTRAQ.,0.38739465583514054
+414,kz3b01wq,6025,drug,Selection of HSV-1 resistance to NFV was not achieved despite multiple passages under drug pressure.,0.38738848701726314
+123,v14o52ku,12328,drug,Autophagy was activated by rapamycin at a dose that does not affect cell viability and tight junction permeability.,0.38736792129974607
+405,w5ynbewh,25172,drug,"However, IκBαDN did not affect viral replication and viral cytopathic effect.",0.3873490282382643
+523,uy4816dy,18023,drug,HAI antibody responses were compared by clinical severity.,0.3873488935156201
+230,y14atmnh,5322,drug,"However, its molecular targets and effects on drug-metabolizing enzymes are unknown.",0.3873383421752939
+380,h3owwjao,11274,drug,This effect was blocked by inhibition of TLR4 signaling mediated by My88 and TRIF.,0.3873246181024576
+18,yvsusriy,25302,drug,"The treatment was safe and well tolerated, with less side effects observed in the verum group compared to placebo.",0.387306302644585
+631,9o0mc3rd,9759,drug,The target compounds were evaluated for their antiviral potential and found to inhibit several coronaviruses.,0.3872764583801392
+114,2ajvf1vx,8623,drug,It is the only approved drug for Human use in the large class of bisbenzylisoquinoline alkaloids.,0.3872295301101378
+289,0cxdtr7r,10926,drug,PIN/NOS-1 complexes decreased after IFN-γ treatment.,0.3871713731373332
+520,3msgcpt7,7559,drug,"Until now, only 5 drugs belong to two categories are used for prophylaxis and treatment of IAV infection.",0.38715990161671254
+323,r88zb7t4,16865,drug,"Currently, several therapeutic options have been employed, such as convalescent plasma (CP), intravenous immunoglobulin (IVIG), monoclonal antibodies and repurposing of existing clinically approved drugs.",0.3870961572145493
+477,t6ogxz7n,6487,drug,Teicoplanin could be evaluated further and incorporated into ongoing clinical studies.,0.3870863147598442
+547,iw3g18s5,3691,drug,"Under these conditions, 2-AP treatment diminished viral replication in the absence of PKR expression.",0.3870254614821218
+246,n0acj460,9883,drug,"In addition, these drugs cannot be used for all patient types (e.g.",0.38701512377528396
+506,xp6nf1yu,16513,drug,"After start of oseltamivir treatment and removal of mucus plugs, the patient fully recovered.",0.3870088297093026
+522,y6xuxj16,14436,drug,This ex vivo model may predict the efficacy of drug candidates’ antiviral and anti-inflammatory activities in vivo.,0.3869049523740299
+209,wx7nheay,62,drug,"Next, through a combination of structure-based virtual and high-throughput screening, we assayed over 10,000 compounds including approved drugs, drug candidates in clinical trials, and other pharmacologically active compounds as inhibitors of Mpro.",0.38689170423000163
+216,kzh5cnoq,23424,drug,"Discoloration of the teeth and bone is a well-described adverse effect of tetracycline administration and it has also been reported in patients who were treated with the semisynthetic derivative, minocycline.",0.38685799128392634
+714,sud0r8kz,12689,drug,"Here, we evaluated the anti-DENV potential of treatment with HCQ.",0.38683878259822047
+410,71pbav7v,11787,drug,NF-κB inhibition also leads to anti-TGEV replication.,0.3868360299137497
+487,tqg1erpj,25628,drug,Serological analysis was performed on paired serum samples using complement fixation assays.,0.3868214155520722
+207,a5wlqvsd,24960,drug,"Today most of the synthetic drugs showed adverse and unacceptable side effects, however, impressive bioactivities with reduced toxicities were reported for many botanicals against several chronic or difficult-to-treat diseases.",0.38679570466513563
+250,zbxiaofl,13755,drug,We found that the combination of treatment with bortezomib and CRT/E7(detox) DNA generated more potent E7-specific CD8+ T cell immune responses and better therapeutic effects against TC-1 tumors in tumor-bearing mice compared to monotherapy.,0.38671346083256053
+609,l8y70ewk,13733,drug,"Furthermore, the effect of DV induced autophagy on viral replication and DV-related pathogenesis was investigated.",0.3866985992036978
+588,egp4t82x,8506,drug,Biological evaluation of a screened selection of compounds was carried out to identify novel inhibitors of the viral protease.,0.38668457698990494
+340,gmw8gl2r,2245,drug,"Currently, no specific antiviral therapy against ZIKV is available, and treatments are palliative and mainly directed toward the relief of symptoms, such as fever and rash, by administering antipyretics, anti-histamines, and fluids for dehydration.",0.38666667206037225
+249,zxx4y7d0,16546,drug,"A variety of therapeutic approaches have shown modest suppression of macular edema, but to obtain greater efficacy, it is likely that multiple molecules, operating through distinct mechanisms, may need to be targeted.",0.3866537034741258
+324,ucn7t3sg,2766,drug,In vitro silencing of DRAK2 by RNAi enhanced CRC cell survival following COX-2 inhibitor treatment.,0.386652158986238
+382,f089bs8r,19993,drug,"Most of the therapeutic agents in this review are directed against non-mutable targets of the host, which is independent of viral mutation.",0.38664874058722937
+438,u5ajsofp,19886,drug,Some veterinarians prescribe immune modulators to treat cats with FIP with no documented controlled evidence of efficacy.,0.3866356252977251
+359,axi7qxjl,21463,drug,"Remarkably, this benefit is maintained even when the treatment starts up to 72 hours post infection.",0.38663378443870716
+354,czvdj3v7,5390,drug,"Presently, no effective vaccine or selective drugs accepted by the United States Food and Drug Administration (FDA) are available for the treatment of norovirus.",0.3866072255643099
+732,txdc0c3j,8485,drug,"Furthermore, our data suggest autophagy-inducing drugs may provide a novel therapeutic strategy for combating lyssavirus infection.",0.3865999691941158
+153,htkshaqk,3624,drug,Bortezomib is the first-in-class proteasome inhibitor drug approved by the U. S. Food and Drug Administration for the treatment of multiple myeloma.,0.38658783505684624
+702,yo4f1fmu,10109,drug,"Overall, our results suggest that targeted chemical modification of some natural products might provide compounds effective against HSV-1 infection.",0.3865687218260772
+174,j1t431ro,23675,drug,"In addition, wild-type mice treated with apyrase or inhibitors of P2X(7)R or caspase-1 showed higher rates of survival.",0.38656057209128963
+332,qhhdjgeq,8785,drug,"However, its clinical application is limited because of short half-life, drug resistance and cross-reactivity with the preexisting antibodies in HIV-infected patients.",0.3865545400637273
+543,bmok0jqa,14562,drug,This new approach would be effective for most viruses while minimizing drug resistance and toxicity.,0.38654184037687195
+493,ck0a4xp7,24511,drug,These results support further investigation of niclosamide and derivatives as anti-retroviral/anti-mycobacterial agents that may reduce clinical challenges associated with multi-drug regimens and drug resistance.,0.386538356040033
+345,l5eeurgd,4670,drug,Current antiviral therapy offers limited success in treating severe influenza infection with both H1N1 and H5N1 viruses.,0.38653473661661814
+348,p7rg9ifo,22541,drug,CONCLUSIONS: Bortezomib can be used safely and effectively in MM patients with hepatitis B. HBV prophylaxis and surveillance are recommended during the MM treatment.,0.38646472786388264
+691,55ceq7ze,2477,drug,New anti-influenza drugs inhibit virus release from infected cells.,0.3864521035429624
+83,y13gz4wz,13297,drug,GC376 was administered subcutaneously every 12 h at a dose of 15 mg/kg.,0.3864502332362761
+267,0hq2co6n,15648,drug,Matrix effect for ML-7 was not higher than 8%.,0.3864465417846899
+220,str19r9a,24388,drug,Confounding was evaluated and a multivariate logistic regression was performed to assess the independent effect of treatments administered.,0.3863927740452563
+430,rtqkvf63,23474,drug,"Especially for life-threatening infections, a therapy with not so well-tried agents might be needed.",0.386387396433627
+676,9p0dr7rl,18052,drug,"Nonetheless, several studies suggest that statins improve outcomes in patients with bacteraemia and pneumonia and might be similarly effective against influenza.",0.3863759350487681
+23,4ueqw98n,10458,drug,"Surprisingly, only SERPINe1-derived 14-mer peptide and low molecular weight drugs targeting SERPINe1 (i.e.",0.38635859214692164
+156,xnd4dldp,22194,drug," After oral administration, the majority of drug molecules are absorbed across the small intestine and enter the systemic circulation via the portal vein and the liver.",0.3863460102308945
+471,vtmwv8zl,2325,drug,The octapeptide thus modified might become an effective inhibitor or a potential drug candidate against SARS.,0.386330340132416
+448,a9xcab8t,17558,drug,A substantial proportion of COPD patients may remain stable without exacerbation.,0.3863302652591223
+386,0wql69vr,11827,drug,"Current therapeutic options are limited, with no direct acting antivirals available for treatment.",0.38632377436555076
+431,fo8xm842,14103,drug,"However, 10–20% of patients show resistance to IVIG therapy and present higher risk of coronary vasculitis.",0.38631877951972526
+426,iptnwr45,4053,drug,"CR2 targeting complement inhibitors are used to treat mouse influenza viral pneumonia model, with PBS treatment group as the control.",0.38631518082386346
+373,hmm6z2iv,18681,drug,This inhibitory effect was further enhanced upon Brefeldin-A treatment.,0.38629093244531454
+526,ftqtubid,3548,drug,"In conclusion, our results suggest that DIZE exerts a protective effect on the heart under the pathological condition of kidney injury.",0.38624393574610827
+443,tymoeyoo,5870,drug,"PRSS levels in the serum of 156 patients with mCRC were analyzed, and poor efficacy of cetuximab therapy was observed in patients with aberrant PRSS expression.",0.3862294083704005
+677,czvdj3v7,5394,drug,"Finally, anti-norovirus drugs in the clinical development stage are described.",0.38619636737114044
+605,thkzoirr,22384,drug,It still remains controversial whether glucosamine is effective in the treatment of osteoarthritis.,0.3861823324325883
+465,3awwn8jc,12048,drug,Antiviral efficacy was determined by measuring the ATP levels in cells that were protected from the viral cytopathic effect (CPE) by the antiviral compounds pleconaril and rupintrivir.,0.38616438589113106
+319,c1uom5f7,7188,drug,The synergism also occurred when the cells were treated with IFN γ and a viral replication mimicker (dsRNA) both in vitro and in vivo.,0.38615172197943365
+134,12j8i9j6,8189,drug,"The results were compared with cocaine effects on accumbens DA and 5-HT in the freely moving rat, without γ-BL treatment.",0.3861136905520371
+488,8f6gpdy2,3299,drug,We confirmed these results in viral growth assays and find that treatment with a sodium channel opener or PKC inhibitor significantly reduces viral replication.,0.38608159111654033
+383,ck0a4xp7,24506,drug,"There are several other clinical challenges for treatment of co-infected patients including: expense, pill burden, toxicity, and malabsorption that further necessitate the search for new drugs that may be effective against both pathogens simultaneously.",0.3860775784739872
+308,05jveocv,21466,drug,The synthesized conjugates were evaluated for their preliminary in vitro analysis against Trichomonas vaginalis at 50 μM.,0.38607712433435953
+559,qmg58cgr,129,drug,It is urgent to generate new chemical entities against this virus.,0.38607297092320936
+93,3am1ntjv,2301,drug,"However, treatment with the p38 MAPK inhibitor SB203580, and the SAPK/JNK inhibitor SP600125 reversed PEDV-induced apoptosis.",0.3860547695680412
+569,oozejbs9,3234,drug,This second part provides an overview of the molecular mechanisms and targets of still-experimental drugs for the treatment and management of influenza.,0.38604535783065214
+435,9lkfjvwo,18068,drug,Oral treatment with the pyrazolopyridine KDU731 results in potent reduction in intestinal infection of immunocompromised mice.,0.38603590001319876
+541,yw0y5npr,11430,drug,The effect of EBOV infection on cell cycle progression was found to be cell-type dependent.,0.38601966173988556
+316,bi2a0btp,12078,drug,"As compared to free drugs, the nanoparticulate V-ATPase inhibitors exhibited lower cytotoxicity and greater in vitro antiviral activity, improving the therapeutic index of diphyllin and bafilomycin by approximately 3 and 5-fold, respectively.",0.38600598801780706
+374,8gncbgot,144,drug,The likely earliest Phase 1 vaccine trial is a synthetic DNA-based candidate.,0.3859968842158622
+328,l8gszu1s,19536,drug,The results of this safety/immunogenicity trial invite further testing of this checkpoint blockade vaccine combination in dogs with melanoma.,0.38598183234253697
+439,xctglbtc,11738,drug,In vivo studies are necessary to calculate the effective dose of EOs in patients and determine their possible side effects and toxicity.,0.3859612134793916
+368,mp3a9c9u,51,drug,"In the absence of an effective vaccine, inhibitor repurposing may seem a fruitful attempt.",0.3859423696122376
+397,xc61osdx,20897,drug,In modified peptides a chemical moiety is attached for increasing their efficacy and stability.,0.3859352167515809
+680,b72g9457,17429,drug,The activity of the prodrugs was evaluated in vitro against different virus families.,0.3859293714695076
+490,x8imkzl8,20319,drug,"Here we found that empiric 2-month therapy with oral NTZ was associated in the decline/elimination of RV antigen from lesions in a PID patient with RV positive granulomas, while peginterferon treatment had no effect.",0.3859178653298946
+602,bmok0jqa,14560,drug,Most antiviral drugs on the market today target viral proteins.,0.38591104357619266
+379,yw0y5npr,11432,drug,"However, these effects were not observed in HeLa or A549 cells.",0.3858861384010049
+494,cnltesii,21535,drug,"However, treatment of cells with LiCl prior infection, does not protect against the infection.",0.38586275686224586
+474,uvp084k2,2018,drug,"By transfecting the mimics and inhibitor of gga-miR-30d, it was found that overexpressed gga-miR-30d inhibited IBV replication.",0.3858148754615656
+567,uvp084k2,2019,drug,"Contrarily, low-expressed gga-miR-30d promoted IBV replication.",0.3858019348675449
+453,nv6jyagd,6916,drug,"Furthermore, p38 MAPK inhibitor, SB203580, inhibits CPE induced by HCoV-229E infection and viral replication.",0.38577366142725295
+343,8rvyupes,21722,drug,Combined treatment with Rapamycin and 4EBP1A4 completely inhibited AKT/Ras hepatocarcinogenesis.,0.38574351875004614
+629,jjpi5gjm,1282,drug,We studied the effect of CatB and CatL on in vitro and in vivo replication of EBOV.,0.38572078030341367
+342,fpaswsug,12248,drug,"Therefore, it is necessary to seek an alternative immunosuppressive drug that spares Tregs with high efficiency in suppression but low toxicity.",0.3857181643101847
+766,hx24vacy,21364,drug,Three of these artificial miRNAs showed significant inhibition of VEEV replication.,0.3857099597746735
+682,e7dimwcu,9431,drug,Our results indicate that curcumin-loaded polyvinylpyrrolidone nanoparticles may potentially serve as an anti-inflammatory drug for the treatment of respiratory diseases.,0.3857022510614724
+619,f59c4idd,15966,drug,We predicted tanespimycin as a candidate and demonstrated its antiviral efficiency in vitro.,0.3857020098973016
+565,71e400kr,13446,drug,Currently available drugs and vaccines only partially reduce deaths and hospitalizations.,0.38569071976492136
+268,2hw6pxnh,4185,drug,Through the use of inhibitors this was shown to be the result of proteasomal degradation.,0.3856694099784474
+587,80d8i1ks,17953,drug,"In the longer term, therapeutic modulation of antimicrobial peptide expression may provide effective new treatments for disease.",0.38561260472405645
+127,91wjhm15,5539,drug,2'-FdC was then tested for efficacy in BALB/c mice infected with a lethal dose of highly pathogenic influenza A/Vietnam/1203/2004 H5N1 virus.,0.3856033932865656
+274,xi0qdy38,23684,drug,The effects on sensorimotor dysfunction were investigated by using balance beam test and rotarod test after brain ischemia.,0.38560034558564155
+450,ps4q5umj,13528,drug,"Rapamycin, an inhibitor of AKT/mTOR, could reverse the effects of SeMet on OTA-induced autophagy and the PCV2 replication promotion.",0.3855809199537932
+482,zimhe0a0,7849,drug,The ITPGS technology can allow the dose of active pharmaceutical or herbal medicine to be significantly reduced in order to attain equal or better efficacy.,0.3855114909968797
+264,8dbenul1,12015,drug,"Finally, we selected drugs approved by established regulatory authorities, which have positive in vitro study outcomes and at least one additional animal or clinical trial.",0.38548863801836036
+480,tjdw2uta,15306,drug,This effect was observed with both respiratory and nephropathogenic strains.,0.3854770661650508
+627,ng6h4l3m,2839,drug,"However, there are several drugs for influenza, a couple of drugs for herpesviruses, and some new antiviral drugs for treatment of HIV and hepatitis C infections.",0.38545177008998266
+165,adkvrx4g,4415,drug,Development of well-tolerated regimens with high cure rates and fewer side effects is still much needed.,0.38544896781386667
+224,ke5cjevy,10803,drug,Maximum effects were observed at 0.05μg/ml OTA.,0.3853703963706629
+395,tph5n7ak,3125,drug,Experimental FIP is 100% fatal once certain clinical and laboratory signs become apparent.,0.3853676736945332
+84,9v7m4llw,23651,drug,"Five-day treatment with BKI 1369 (10 mg/kg BW twice a day) effectively suppressed oocyst excretion and diarrhea and improved body weight gains in treated piglets without obvious side effects for both toltrazuril-sensitive, Wien-I and resistant, Holland-I C. suis strains.",0.38534755063389453
+596,xyc6a1fw,20569,drug,"Two of the compounds, BGB324 and NCK-8, showed some effect against lethal infection in vivo at the concentrations tested, which warrants further investigation.",0.38533479904677204
+659,hfwvxtlu,3281,drug,"Antiviral therapy could potentially reduce morbidity and mortality from flavivirus infections, but no effective drugs are currently available.",0.3853210609422893
+403,wx06intu,1170,drug,Pathogen safety is achieved by careful donor selection and a combination of pasteurization and chromatographic purification steps.,0.38531737828036255
+472,2ssrs0mw,22251,drug,Tumor necrosis factor-alpha (TNF-α) was reported as anticancer therapy due to its cytotoxic effect against an array of tumor cells.,0.3852892115618712
+503,0s2rx3gc,15208,drug,These results suggest that false positive results can be obtained in the OC43 HI test unless the sera are treated with phospholipase C before the assay.,0.3852624895031375
+554,zynor0b2,20385,drug,Successful highly active antiretroviral therapy is associated with a decrease in neopterin levels.,0.38522702861674335
+694,201jppkd,12725,drug,"Moreover, immunomodulatory effects of analogs have been beneficial to patients with severe inflammatory complications of several viral diseases.",0.38520766727282013
+491,cdn52epy,12104,drug,"With the aim of studying a new alternative therapeutic mechanism, four Z-specific siRNAs (Z1- to Z4-siRNAs) were tested showing variable efficacy.",0.38520155670525646
+647,h7g5ecc0,22641,drug,"Nonetheless, many novel approaches to antiviral therapy are available including candidate thiazolide and purazinecarboxamide derivatives with potential broad-spectrum antiviral efficacy.",0.38519839303695846
+498,cpl7zf7f,23804,drug,"In multivariate analysis, Aspergillus spp.",0.38518904700158085
+768,qebbkr6d,115,drug,Our in vitro assays revealed that CVL218 can exhibit effective inhibitory activity against SARS-CoV-2 replication without obvious cytopathic effect.,0.3851576121156021
+466,qk37euo4,4371,drug,Novel approaches must be discovered for a more effective treatment of residual CV remodeling and risk.,0.3851556097357241
+599,4rhlkhji,20216,drug,"Therefore, new drugs need to be identified in order to develop antiviral treatments limiting CoV replication.",0.38513151944987445
+458,9v7m4llw,23652,drug,"The plasma concentration of BKI 1369 in piglets increased to 11.7 μM during treatment, suggesting constant drug accumulation and exposure of parasites to the drug.",0.38512924412797095
+551,f3zdttfo,3153,drug,"However, it is not clear whether HMA and other viroporin inhibitors affect replication of FIPV.",0.38512558227678034
+424,ast0ue6z,9328,drug,Both the effects are more efficient than UA.,0.38510454631527313
+705,45glufnh,17075,drug,These studies indicate that these NCp7-targeted compounds represent new potent anti-HIV drug candidates which could be effectively used in combination with all approved anti-HIV drugs.,0.385086758676876
+404,kwz0b81g,412,drug,"Likewise, a synergistic inhibition of RVFV replication was observed with p38MAPK inhibitor SB203580 or the ERK inhibitor PD0325901 combined with rapamycin treatment.",0.38508540775563904
+548,w59fu9c9,17948,drug,"Currently, crofelemer, an antisecretory agent, is the only therapy approved in the USA for the symptomatic relief of noninfectious diarrhea in patients with HIV on ART.",0.38506884902668337
+318,wjab4y0g,17144,drug,"We found that infection of APCs with BCG induced PD-L1 up-regulation, but that this did not depend on direct infection, suggesting a soluble mediator for this effect.",0.3850551273557816
+300,fzgwfb27,11103,drug,"Selecting drugs that were previously FDA-approved, such as CQ, also improves the likelihood that they may more quickly reach stages of clinical testing and use by the public.",0.3850521313944912
+145,hqijd268,21890,drug,"The use of labeled drugs as low-dose tracers would provide an alternative application for compounds that have failed to advance to clinical use because of insufficient in vivo potency, an unsuitable pharmacokinetic profile or hepato- or nephrotoxicity.",0.38502371932657287
+326,r49ox9x9,2743,drug," Since the emergence of the severe acute respiratory syndrome (SARS) to date, neither an effective antiviral drug nor a vaccine against SARS is available.",0.3850159361997724
+221,iyaz61e2,15865,drug,"Effective diagnosis can result in effective treatment, but the progress in both of these facets must be concurrent.",0.38498924543346363
+278,6vloa2w3,21508,drug,hPAECs treated with synthetic dsRNA accumulated in the G1 phase of the cell cycle.,0.3849761693627593
+580,o6znx8t8,22897,drug,Here we aimed to identify small molecular weight compounds that might mimic this beneficial effect and improve antiviral defense.,0.38497412345761445
+294,bi2a0btp,12074,drug,"However, their poor water solubility and potential off-target effect limit their clinical application.",0.3849739822528768
+781,ng6h4l3m,2838,drug,There are no effective antiviral drugs for many viral infections.,0.3849639100132158
+670,43zrew96,5430,drug,"In addition, some of them are promising therapeutic agents.",0.3848514143418454
+595,envplcno,8559,drug,"Consequently, none were selective inhibitors of SARS-CoV replication (SI values <1–3.3μM).",0.384846087253491
+291,k4uv6fft,25228,drug,"Ancillary treatments with documented efficacy in undifferentiated calf diarrhea include parenteral administration of antimicrobials with a predominantly gram negative spectrum of activity, parenteral administration of non-steroidal anti-inflammatory agents such as meloxicam and flunixin meglumine, and continued feeding of cow's milk.",0.38483496744983614
+536,cxxk09t2,10482,drug,"In 2011, two direct-acting antiviral (DAA) drugs, boceprevir and telaprevir, were licensed that have shown enhanced sustained virologic response (SVR) in phase III clinical trial, however, these interferon-free treatments are more sensitive to HCV genotype 1 infection.",0.38480927643913754
+655,jirkkkvy,23331,drug,"When replenished with soluble cholesterol, the effect of MβCD was reversed, allowing productive viral infection.",0.38479391604091756
+771,dtaasxk1,3681,drug,"In particular, inhibitors of viral entry, comprising therapeutic peptides, were based on the recently launched anti-HIV drug enfuvirtide.",0.3847577356801939
+692,bi2a0btp,12080,drug,"In addition, following a lethal influenza viral challenge, diphyllin nanoparticle treatment conferred a survival advantage of 33%.",0.38473197872070436
+385,ay4cnzn5,17540,drug,Methods We used small compound-based forward chemical genetics to screen a chemical library of 1280 known drugs against influenza A virus in Biosafety Level-2 laboratory.,0.3847101601566672
+351,bgt7n2pq,15790,drug,"ACEIs were divided into patented and off-patent drugs, off-patent ACEIs were further divided into original brands and generics, and subgroup analyses were performed.",0.3847067984190406
+611,4xwh2axk,9067,drug,"In conclusion, silvestrol could be identified as pangenotypic HEV replication inhibitor in vitro with additive effect to RBV and further demonstrated high potency in vivo.",0.3846860172235441
+353,b38d2aih,25444,drug,"Therefore, a drug that is safe and effective against both would be an enormous breakthrough.",0.38468559652789924
+537,lzfd5zxq,6944,drug,"Time-of-drug-addition experiments indicated that LCTA-949 inhibits an early stage in the DENV replication cycle; however, a virucidal effect was excluded.",0.3846828420609492
+433,kw3mr1ro,9473,drug,"We here review molecules that have been reported to inhibit CHIKV replication, either as direct-acting antivirals, host-targeting drugs or those that act via a yet unknown mechanism.",0.38467844348025476
+200,is7jxysd,3525,drug,Single-cell analysis of antiviral candidates not only reveals efficacy but also facilitates clustering of drugs with the same mechanism of action and provides some indication of the ease with which resistance will develop.,0.38465534544332136
+514,gsa3n2ci,16379,drug,"Control and prevention strategies are limited to the use of disinfectants and hand sanitizers, whose efficacy is frequently insufficient.",0.38464712339353646
+312,ia3zu7yf,2394,drug,"However, the primary outcome measure failed to capture differences in antibiotic use because many patients were started on antibiotics before the results of POCT could be made available.",0.3846440355715346
+664,ccwhf276,6929,drug,All treated patients with full viral suppression actually have low-level viremia.,0.3846288580617622
+562,ggytzpqy,24233,drug,Inactivation of Puumala virus was effective after 10min with all products except ethanol.,0.38461746574395056
+396,811d60tc,16340,drug,Do we need a replacement medication for influenza with good efficacy?,0.3846121783845611
+534,yw99ojz5,5088,drug," This review of 2018 publications identifies side effects of blood, blood components, and plasma products.",0.38455217458892244
+695,y6xuxj16,14428,drug,Current methods for evaluating the efficacy of anti-influenza drugs rely mostly on transformed cells and animals.,0.3845410410316749
+560,s30p3a23,18509,drug,"Their mutational variations to escape antiviral medication could be lethal, thus limiting the apparition of drug-resistant strains.",0.3845359304089561
+776,kzyxzlrm,3187,drug,"Based on image analysis, these 6 hit compounds did not inhibit CHIKV replication in the host cell.",0.3845216345617504
+708,x2q9vyf2,18042,drug,against MERS-CoV infection.,0.38448337144646744
+675,3pi2aimv,1430,drug,A number of natural products have been reported as selective inhibitors of some cathepsins.,0.3844604091281683
+392,ggytzpqy,24234,drug,Inactivation with absolute ethanol was effective only after 30min.,0.38445292505145207
+434,cpl7zf7f,23808,drug,"Regarding radiological outcome, 85 CT-scans were reviewed, showing similar rates of regression or stabilization in treated and untreated patients.",0.38444805844367136
+533,nrvgnsp4,13568,drug,Passive immunotherapy such as convalescent plasma and hyperimmune globulin have some studies demonstrating benefit when administered as an adjunctive therapy for severe influenza.,0.38442934469957063
+528,2irhi9i2,20478,drug,"Other agents, including the HIV protease inhibitor glycyrrhizin and convalescent plasma, remain to be evaluated.",0.38442304422896695
+574,fo526nvn,15447,drug,"The intraperitoneal administration of iCRT14 reduced viral load, improved clinical signs, and partially protected mice from influenza virus infection.",0.3844166340338066
+584,axi7qxjl,21460,drug,"Thus, the combination of the specific anti-influenza drug Zanamivir together with carrageenan in a formulation suitable for intranasal application was evaluated in-vitro and in-vivo.",0.38441389532203446
+271,nb5ad4pw,24323,drug,Necropsy was performed on 13 piglets from two litters with initial and advanced clinical signs.,0.3844105633410585
+245,qryvs5yp,3342,drug,"Virus targets included the influenza haemagglutinin, neuraminidase and M2 proteins, and both the respiratory syncytial virus and influenza polymerases and nucleoproteins.",0.3844060820521215
+540,ast0ue6z,9327,drug,Conclusion TCLL has a significant HNEI effect in vitro and a therapeutic effect on LPS-induced inflammation in a mouse model.,0.38440038019796363
+217,5oge12e4,7745,drug,"Bobel-24 was effective as a prophylactic/therapeutic treatment at the lowest dose (50mg/kg of body weight); in the group treated with this dose of drug there was a longer prepatent period, a shorter patent period and a lower intensity of oocyst excretion than in the untreated control group, and the differences were all statistically significant (P <0.05).",0.38439800627058485
+535,xio0g203,6427,drug,This conclusion was also verified by endocytosis inhibitor experiments.,0.38439252614578595
+521,h7g5ecc0,22646,drug,"Toll-like receptor agonists, and drugs that inhibit specific cytokines as well as interferon preparations have all shown potential therapeutic efficacy.",0.3843865894654112
+402,ge3bbetg,19658,drug,"Although it is well tolerated by most patients and helps in the achievement of complete remission, a few rare imatinib-associated adverse effects such as pulmonary interstitial fibrosis have been reported.",0.3843530320576333
+352,bz7ag3nn,3791,drug,"In vitro, miR-208-3p down-regulation and ARID2 over-expression elicited similar inhibitory effects on HCC cell proliferation and invasion.",0.38432610729781425
+857,aydkcz3u,22227,drug,"In addition, CypA is incorporated into the influenza virus virions.",0.38432063399017696
+459,qn0jfynh,7768,drug,"zVF also slowed the loss of COX-2 after treatment with cycloheximide, and COX-2 was degraded by exogenous μ-calpain in vitro.",0.3843188552940611
+384,8zgvovu4,21571,drug,2DE and 2D-DIGE analysis in combination with MALDI-TOF/TOF MS revealed differential expression of 22 serum proteins in leptospirosis patients compared to the healthy controls.,0.38429319231953896
+668,99d8e6j8,2203,drug,"The use of a pan-caspase inhibitor resulted in the inhibition of SADS-CoV-induced apoptosis and reduction in SADS-CoV replication, suggestive of the association of a caspase-dependent pathway.",0.38428148341416973
+737,134qz0aw,4442,drug,"Our results demonstrated that following exposure to BCG, there was an increase in the expression of MKP-1.",0.38427247508909823
+497,3mw66vxm,8884,drug,The results showed that CH inhibited replication and HBeAg production by either wild-type or lamivudine-resistant HBV clinical isolates in a dose-dependent manner.,0.38425929775888784
+406,8txogxek,16499,drug,"STAT1 tyrosine phosphorylation was elevated by IFN combination treatment, however, only the hyper-transactivation of GAS but not ISRE was observed.",0.38424578225331335
+276,5oge12e4,7740,drug,The animals were treated by oral administration of the drug at 50 or 500mg/kg of body weight.,0.3842397904862222
+517,0ewcptub,4064,drug,"Since then, more than eighty antiviral drugs have received FDA approval, half of which treat HIV infection.",0.38422258732902576
+715,5lzzobl3,18953,drug,The IC50 of chloroquine for inhibition of SARS-CoV in vitro approximates the plasma concentrations of chloroquine reached during treatment of acute malaria.,0.38419721062722717
+178,1b3x7p6u,15746,drug,"In order for a drug to be approved by FDA for clinical use, it must have excellent therapeutic potential in the desired area of target with minimal toxicities as supported by both pre-clinical and clinical studies.",0.38419369120395
+553,u7sjblrc,1621,drug,"However, the blockage of PI3K/Akt/mTOR with LY294002 and rapamycin did not affect HSV-2 replication.",0.3841581361036612
+337,n0yvwl3a,1092,drug,"No fewer than 18 clinical studies covering all indications for plasma, and extensive clinical experience have shown that reduced levels of coagulation factors and inhibitors as a result of SD treatment do not impair significantly the clinical efficacy or tolerance of plasma.",0.3841480619471998
+794,bc00vths,8953,drug,No standard immunosuppressive treatment approach is able to control disease progression in patients with SAVI.,0.38410069746305364
+381,jnketv7y,5472,drug," Enfuvirtide (ENF) is a clinically used peptide drug for the treatment of HIV infections, but its poor pharmacokinetic profile (T 1/2 = 1.5 h in rats) and low aqueous solubility make the therapy expensive and inconvenience.",0.38409845533185477
+693,klgqcu3j,4553,drug,"Notably, lycorine exhibits its numerous pharmacological effects on various diseases with very low toxicity and mild side effects.",0.3840936690082941
+511,uya43kyh,17393,drug,All enzymatic extracts showed no cytotoxic effect towards the kidney Vero cells.,0.3840849855429156
+416,hpqfaed2,4778,drug,The Antonín Holý Lecture Award by David Chu on medicinal chemistry provided an overview of early developments of nucleoside analogs for the treatment of HIV and varicella zoster virus infection and how this knowledge serves to develop new drugs targeting HBV.,0.3840835226390268
+304,ng6h4l3m,2841,drug,"As of March 2014, it consists of approximately 50 drugs approved by the FDA, approximately half of which are directed against HIV.",0.38406521655336684
+542,5lnt5sp4,3613,drug,Many clinical studies have confirmed its safety and efficacy in the setting of congenital as well as acquired bleeding disorders.,0.3840641751918441
+507,m1e487p2,25074,drug,"Aggressive multi-modal therapy was employed including intravenously administered fluid therapy, potassium penicillin, lidocaine, flunixin, and pantoprazole among other supportive care.",0.38405175735680447
+721,ds5hm731,17615,drug,"The neuraminidase inhibitors, oseltamivir and zanamivir, have in vitro activities against the human H5N1 isolates; however, recent data suggest that higher doses for longer periods may be required to be effective.",0.3840213258409752
+679,t2d2egyx,21294,drug,"We found that two herbal extracts, KIOM 198 and KIOM 124, contain significant anti-PED viral effect.",0.3840177511862213
+656,7a8usikz,22662,drug,These compounds with improved drug properties may be useful in alleviating symptoms and protection against disease progression in patients with metabolic syndrome and NAFLD.,0.38401530089524055
+505,o6znx8t8,22904,drug,The antiviral effect was also found at compound concentrations below the ones observed for cytotoxicity.,0.3839980566944387
+184,9mxi4dzi,3383,drug,Two peptide candidates showed binding to influenza A/Aichi/2/68 H3N2.,0.38399012236189956
+555,uaaj66xq,10090,drug,CQ treatment enhanced the LC3 lipidation in PHEV-infected Neuro-2a cells but lowered PHEV replication.,0.3839879566790291
+449,ke5cjevy,10808,drug,These data indicate that low doses of OTA promoted PCV2 replication in vitro and in vivo via the oxidative stress-mediated p38/ERK1/2 MAPK signaling pathway.,0.3839771331104493
+585,jfnj6l41,18447,drug,This screening identified 20 active compounds.,0.3839582470835306
+724,vujo6ixo,4207,drug,Blocking caspases activation increased BHV-1 replication.,0.3837778373061757
+755,qq89719t,9499,drug,These data suggest that MG132 is a potential therapeutic and preventive agent for cancer cachexia.,0.38372534853598067
+413,58yi9c9t,20935,drug,"The use of HCT has been described in broad inflammatory domains, where it has exhibited a variety of activities, including antiviral, antibacterial, antiparasitic and immunostimulant activity, with high efficiency, mild features and definite therapeutic effects.",0.3836735613007163
+437,buorfl96,15998,drug,"While enzyme treatment reduced the abundance of these components, the treatment also decreased the transepithelial resistance to ~35% of the controls, suggesting that the epithelial integrity was impaired.",0.38363727899055294
+460,j6ateco7,13886,drug,"Although effective, these drugs carry risks of increased bleeding and drug ‘resistance’, underpinning a drive for new antiplatelet agents.",0.38362367293122007
+644,lxtuig9w,4971,drug,AT-511 did not inhibit the replication of other selected RNA or DNA viruses in vitro.,0.38361478036181734
+840,wgzpd6te,16487,drug,"Currently, few effective anti-FCV drugs are available.",0.38359382059550545
+729,ktb3s62l,6889,drug,The results of this study may explain the observed absence of clinical resistance to the long-term antiviral treatment in the patients.,0.38355741301732066
+504,eoxxal8v,6820,drug,"In vivo, administration of exogenous HGF reduced endothelial expression of E-selectin induced by bolus injection of TNF-α.",0.3835444535004783
+707,5rpdt3fs,7690,drug,This review provides a summary of therapeutic agents that target polymerase activity.,0.3835299601511722
+735,bi2a0btp,12081,drug,CONCLUSIONS: These results demonstrate the potential of the nanoparticulate V-ATPase inhibitors for host-targeted treatment against influenza.,0.38352608473482136
+687,oruqlb1j,14466,drug,"Therefore, to find an alternative method of applying antiviral agents for rapid and enhanced inhibition of the FMD virus (FMDV), we compared the antiviral effects of promising antiviral agents and attempted to apply them in combination.",0.38350784676226646
+607,797781dl,2418,drug,"Taken together, these results indicated that miR‐127‐5p inhibited EV71 replication by targeting the SCARB2 mRNA.",0.38350564770774165
+372,ak11d8zi,5830,drug,"The samples were treated to remove serum albumin and immunoglobulin (IgG), and then subjected to two-dimension differential gel electrophoresis.",0.3834840317164427
+361,5oge12e4,7747,drug,"In the group treated with the higher dose of the drug, the diarrhoea lasted for a significantly shorter period (P <0.05) than in the untreated group.",0.38347960984869695
+630,7m71pqu9,25042,drug,"To evaluate the performance of the newly developed assay, a total of 36 clinical samples suspected of PPR were screened for the presence of PPRV in parallel with conventional RT-PCR.",0.38345286736860595
+613,upzmzauj,4639,drug,"The 15 best-ranked candidate consensus compounds, based on three docking tools, were evaluated for further assays.",0.38339918170653403
+684,eamctnik,23241,drug,One candidate was also effective when administered orally in a rodent-based malaria model.,0.3833948254201636
+760,54geeqhc,482,drug,We show such molecular target remains unchanged across 30 clinical isolates of HCoV-NL63 strains.,0.38339004951109107
+525,ebaosne3,12489,drug,"In addition, the two transmembrane regions, TM1 and TM2, exist in all CoVs.",0.38336933204027485
+779,ubtd3vdq,23274,drug,The benefit of antibiotics for treatment of COPD exacerbations is small but significant.,0.383340770657395
+455,o44dtozb,1032,drug,"Recent small-molecule screens have revealed inhibitors against ubiquitin-conjugating and -deconjugating enzymes, many of which have been evaluated for their potential use as therapeutics, either as single agents or in synergy with other drugs.",0.383271620867042
+839,5bkeuwkl,5666,drug,"In an in vitro model of antibody-dependent enhancement of FIPV infection, diphyllin nanoparticles showed a prominent antiviral effect against the feline coronavirus.",0.3832641879806754
+248,lc4qvvou,5212,drug,"Classic Hsp90 inhibitors reduced viral replication with an effective concentration at 50% (EC(50)) in the high nanomolar to low micromolar range, while drugs from a new class of Hsp90 inhibitors showed markedly more potent inhibition.",0.3832383154607089
+314,r5p5helx,2813,drug,"Repositioning approach not only fastens the process of drug development but also offers more effective, cheaper, safer drugs with lesser/known side effects.",0.38322216598048914
+769,gfccstoz,8776,drug,"In agreement, ADAM10 over-expression significantly increased HIV-1 replication.",0.38317783754770834
+556,2flj4gnp,3771,drug,"Both treatments blocked virus infection and apoptosis, indicating that virus–receptor binding is necessary but not sufficient for the apoptosis induction.",0.3831570469081729
+451,v14o52ku,12331,drug,"Pre-treatment with rapamycin significantly restricted not only a 1 h infection but also a longer infection (24 h) with PEDV, while this effect disappeared when autophagy was blocked.",0.3831328146256916
+789,99j1u5ar,21595,drug,No effective drug is currently available for treatment of enterovirus 71 (EV71) infection.,0.3831064722041539
+604,p1yr4zqq,5883,drug,The results showed that GA treatment improved cell viability and ameliorated abnormal glutamate-induced alterations in mitochondria in DPC12 cells.,0.38307611258046265
+512,ex7vdi4v,14456,drug,"In these cases, the mechanism of action has to be analyzed after the in vivo effect has been found.",0.3830690176177341
+369,jf4j00bp,7132,drug,"The secondary outcomes included duration of intravenous antibiotics, length of hospital stay, and mortality.",0.3830163459596005
+610,0pmo3opx,2199,drug,"By combining these substrate profiling and structural data, we were able to design a selective peptide inhibitor of APN that was an effective therapeutic both in vitro and in vivo against APN-expressing prostate cancer models.",0.383012965751664
+625,xio0g203,6424,drug,"As compared with antibody treatment, TPIC accelerated the speed and enhanced the degree of co-localization.",0.38299815132529574
+614,8dbenul1,12020,drug,"CONCLUSIONS: Several established drugs may have therapeutic effects on EVD, but the quality and quantity of current scientific evidence is lacking.",0.3829418191408601
+519,q2f0jcfx,8389,drug,"These results indicate that intraperitoneal administration of E-64 not only inhibited liver proteolytic activity in a dose-dependent manner but also produced anti-fecundity and anti-embryonation effects, delaying the progression of fasciolosis.",0.38287758417750206
+582,jne14jqf,3662,drug,Liver inflammation was induced in vivo using a murine model of hepatic ischemia/reperfusion injury.,0.3828565096157787
+419,2x7dfl1q,18733,drug,"The current chemotherapy of the human trypanosomiases relies on only six drugs, five of which have been developed more than 30 years ago, have undesirable toxic side effects and most of them show drug-resistance.",0.38284608208632026
+773,6pckexyi,9387,drug,"Up-regulation of ND4 was reduced by the MAPK inhibitor, apigenin, which has been demonstrated elsewhere to inhibit VV replication.",0.3828430603468269
+484,b31ctbat,233,drug,"By performing target-based virtual ligand screening, a total of 21 targets (including two human targets) were screened against compound libraries including ZINC drug database and our own database of natural products.",0.3828262728204882
+671,h9bzx8un,11358,drug,"For this reason, the initial in vitro high-throughput steps in the screening process should be reviewed for rapid identification of the compounds that may serve as anticancer agents.",0.38281780785115965
+683,mx6i2781,15761,drug,In vivo experiments indicated that Se@RBV was found to prevent lung injury in H1N1-infected mice through hematoxylin and eosin staining.,0.38278899322555876
+652,90r3w9q0,20309,drug,"However, neither autophagy induction, via starvation, nor pharmacological blockade significantly affect BEV replication.",0.3827798370890772
+544,aqlxb6ab,3481,drug, Antiviral agents are drugs approved in the USA by the Food and Drug Administration (FDA) for the treatment or control of viral infections.,0.3827451886804029
+643,9uyeflgg,7362,drug,These have identified compounds which in many cases are already approved drugs.,0.38274039508280017
+744,6vloa2w3,21506,drug,Our results indicated that exposure of hPAECs to synthetic dsRNA led to functional deficits.,0.3827206545624188
+481,92xazjkb,12218,drug,"These case studies also illustrate the value and complexity of use of selective biomarkers of clinical response and risk of adverse drug effects, either singly or in combination.",0.3827128236296849
+745,nztdph00,665,drug,"As expected, DNase I, an inhibitor of MPO and NADPH, decreased pulmonary inflammation and NETs.",0.3826773383084837
+550,2w6vgd92,4770,drug,"Although this evidence is still far from being definitive, the results so far obtained suggest that PIs should be seriously taken into consideration for further testing as potential therapeutic agents for SARS and avian influenza.",0.38267400123090795
+777,2haxmyur,1297,drug,"Together, the results suggest that TM5275 is a relatively safe and potent antifibrotic agent, with therapeutic potential in fibrotic lung disease.",0.38267299637010355
+566,pfsztifl,2608,drug,The subject of Chapter 100 is Angiotensin-Converting Enzyme-2.,0.3826546979067112
+325,p0ye9lcx,7475,drug,"Updates were presented on several therapeutics currently in clinical trials, including influenza polymerase inhibitors pimodivir/JNJ6362387, S033188, favipiravir, monoclonal antibodies MHAA45449A and VIS410, and host directed strategies for influenza including nitazoxanide, and polymerase ALS-008112 and fusion inhibitors AK0529, GS-5806 for RSV.",0.38264417784934385
+499,q2f0jcfx,8387,drug,Maximum effective inhibition of proteolysis was achieved at 50 mg/kg/day (87%).,0.38261056593089887
+650,j09mf1ad,1671,drug,"Background/Aims Following lead optimization, a set of substituted imidazopyridines was identified as potent and selective inhibitors of in vitro HCV replication.",0.38261026070308185
+483,sut3nf2a,10437,drug,Similar results were obtained using another P2X7 inhibitor brilliant blue G (BBG) in vivo.,0.3825874609521263
+508,fmbe52ue,24409,drug,Choline treatment attenuated actin alpha cardiac muscle-1 overexpression after LPS.,0.3825851463121793
+530,4fnvb9i0,4462,drug,"Dipentamethylene thiuram monosulfide, a specific inhibitor of Pin1, inhibited FCoV replication.",0.38255984373693225
+251,q3fyo3rx,10117,drug,Pentoxifylline was able to inhibit JEV replication in a dose-dependent manner at a 50% inhibitory concentration (IC50) of 50.3μg/mL (0.00018μM) and a therapeutic index (TI) of 10.,0.3825141669385714
+485,hh6h50t2,2662,drug,"These antiviral effects were abrogated by treatment with the HO-1-specific inhibitor SnMP or silencing of HO-1 expression by transfection of shRNA, which indicates that HO-1 induction contributes to the anti-HCV activity of celastrol.",0.38247674511372787
+229,ia3zu7yf,2382,drug,"Secondary outcomes included duration of antibiotics, proportion of patients receiving single doses or brief courses of antibiotics, length of stay, antiviral use, isolation facility use, and safety.",0.382475559470062
+568,ua22udlc,8091,drug,"Drugs active against HIV are comprehensively reviewed as in combination, nucleoside analogue reverse transcriptase inhibitors, nucleoside analogue reverse transcriptase inhibitors, and protease inhibitors.",0.38247530883181985
+635,t93ng9b5,7332,drug,"To date, no effective drugs that improve the clinical outcome of influenza A (H7N9) virus-infected patients have been identified.",0.3824426902893051
+415,ia3zu7yf,2395,drug,"Although POCT was not associated with a reduction in the duration of antibiotics overall, more patients in the POCT group received single doses or brief courses of antibiotics than did patients in the control group.",0.38237323797336575
+646,i1e39v9m,3479,drug,"Several drugs currently used to treat hypertension and heart failure are designed to target angiotensin II synthesis and function, but thus far, none have been able to completely block the effects of RAS signaling.",0.382367937234084
+685,sdjqth8d,15853,drug,The status of the heart failure patients were checked before and after CRT.,0.3823592482385171
+479,bylmvtiz,23183,drug,"In addition, we sum up the proof of their in vivo and clinical applications.",0.3823583395498971
+688,hio0953g,13672,drug,"During this time, consumption of all antimicrobials for systemic use decreased by 33%.",0.3823567486825006
+237,ftqtubid,3549,drug,"This effect was not due to improved kidney function, a fall in blood pressure or a reduction in LVH but was associated with a reduction in cardiac ACE and cardiac Ang II levels.",0.3823477916509799
+633,uomf1u79,8165,drug,"In contrast to this synergistic effect, Alt significantly repressed type I and type III IFN production, and this impairment led to elevated viral replication.",0.3823308443238138
+501,bq9qp8sy,9654,drug,"For these reasons, the overall effect of GRP78 on HBV production and whether to utilize the HBV replication-inhibitory effect of GRP78 up-regulation or the hepatocellular cancer cell invasion-inhibitory effect of its down-regulation were further investigated in order to improve the efficacy of current antiviral therapy.",0.3823211078386216
+223,wx06intu,1174,drug,"In all 36 patients treated for acute bleeding and prophylaxis, and 24 surgeries (15 total joint replacements, eight orthopaedic procedures, one cholecystectomy) in 16 patients with severe haemophilia A, efficacy of Beriate® P was always rated as “excellent” or “good”, and no thrombosis was reported.",0.3823209964448935
+164,88bcvunj,14421,drug,"Cells treated with a 10, 50 and 100 µM dose of glycyrrhizinic acid led to a 24.3%, 41.5% and 82.1% increase in the sub-G1 phase (apoptotic) cells.",0.3823107617457031
+321,hyihoelf,4617,drug,"However, the information in this review is not meant to guide clinical decisions, and any therapeutic described here should only be used in context of a clinical trial.",0.38230756388594594
+722,iu2ziccm,127,drug,"In this study, we have identified 4 small molecular drugs with high binding capacity with SARS-CoV main protease by high-throughput screening based on the 8,000 clinical drug libraries, all these drugs have been widely used in clinical applications with guaranteed safety, which may serve as promising candidates to treat the infection of 2019-nCoV.",0.38227672971507387
+612,4yuw7jo3,197,drug,"Drug repurposing, representing as an effective drug discovery strategy from existing drugs, could shorten the time and reduce the cost compared to de novo drug discovery.",0.382257905650122
+808,hpuogyb0,5241,drug,"With the exception of the antisense molecule fomivirsen, all antiherpes drugs inhibit viral replication by serving as competitive substrates for viral DNA polymerase.",0.3822439046332535
+222,63fc5mx7,7023,drug,"To a clinician it probably means no less than proven statistically significant efficacy by a drug in large-scale, controlled human trials.",0.382241753050685
+764,xhr7pi2k,22169,drug,Molecular diagnostic evaluation was performed on samples obtained from the most severe cases.,0.382230948397099
+787,26jg9g0b,3846,drug,The stability of the ligand was subsequently confirmed by molecular dynamics.,0.38222720083417555
+598,2528jrn6,18711,drug,"After the withdrawal, HBV replication was at low or high levels in the dexamethasone-treated mice or in both cyclosporine- and cyclophosphamide-treated mice.",0.3822177381230252
+703,cpl7zf7f,23798,drug,Clinical and radiological outcomes of treated and untreated NTM-disease cases were examined.,0.3821883030578613
+432,3wc8qmxw,22543,drug,"The efficacy of the tonic was evaluated and expressed as cell proliferation rate and plaque reduction rate in Madin-Darby Canine Kidney (MDCK) cells, against 3 strains of influenza A and B viruses.",0.38217213979418246
+746,hylxi96f,428,drug,"Collectively, a single amino acid substitution in GP is sufficient to confer resistance against CatB/CatL inhibitors, suggesting that usage of CatB/CatL inhibitors for antiviral therapy may rapidly select for resistant viral variants.",0.3821329712704664
+296,p18ea6n2,23876,drug,"Tylvalosin treatment markedly decreased IL-8, IL-6, IL-1β, PGE2, TNF-α and NO levels in vitro and in vivo.",0.3821212111199673
+617,gu91cact,362,drug,The inhibitor had no effect on fungal growth and the activities of various viral enzymes when tested up to 100 μM.,0.38211673897180626
+700,s8tq6d68,23170,drug,"However, as chloroquine did not alter the duration of the disease or the intensity and days of fever, further studies are necessary to confirm the clinical effects and to assess the side effects of chloroquine in dengue patients.",0.3821150759985001
+678,e3zx2kh5,16804,drug,"On the other hand, over-expression of ACE2 exerts protective effects in local tissues, including the brain.",0.38210167568303094
+470,xi0qdy38,23682,drug,The protective effects against focal cerebral ischemia were evaluated using a model of middle cerebral artery occlusion (90-minute occlusion followed by 24-hour reperfusion).,0.3820674095396958
+738,zonfottc,4650,drug,We then show that the serum contaminants may be largely removed with the addition of a gel filtration chromatography step.,0.3820508281852165
+767,dfgb0liu,15264,drug,"Finally, the treatment of ZIKV infected mosquito cells with brefeldin A and golgicide A showed no effect on NS1 secretion, while affecting virion release.",0.382008512852305
+790,79v0hdi9,6699,drug,Further experiments revealed that 51 compounds blocked virus entry while 19 others inhibited viral replication.,0.38200555504391936
+686,zimhe0a0,7844,drug,"These molecules help reduce gut pathogens, while enhancing the absorption and bioavailability of therapeutic drugs, phytomedicines, and nanomedicines.",0.3819704340483352
+850,ccwhf276,6931,drug,"Thus, new therapeutic agents are needed to curtail HIV-1 transcription and residual virus.",0.38193658284136517
+581,s0ci3r8w,16603,drug,Our findings may expand the spectrum of indications of these safe-in-man agents and reinforce the arsenal of available antiviral therapeutics pending the results of further in vitro and in vivo tests.,0.3819287619903763
+661,bimkggvg,545,drug,Currently no potent and selective CBS inhibitors are available.,0.3819074324669164
+590,ge3bbetg,19665,drug,"On the basis of a suspicion of imatinib-induced ILD, imatinib was discontinued and prednisone treatment was initiated.",0.38189350387694504
+632,itz0bdrc,4600,drug,Antiviral agents are drugs approved by the Food and Drug Administration (FDA) for the treatment or control of viral infections.,0.3818760746544779
+690,hpuogyb0,5250,drug,"This article provides an overview of clinically available antiviral drugs for the primary care physician, with a special focus on pharmacology, clinical uses, and adverse effects.",0.3818516422030173
+667,thkzoirr,22381,drug,"Moreover, evidence is insufficient that a nutritional dose of vitamin or mineral reduces the incidence of cardiovascular disease and cancer, or mortality rate.",0.3817962831636945
+256,vhegfwki,12905,drug,"Molecular features of the most active compound (IC(50) = 0.008 μM, CC(50) = 3.264 μM, TI = 380.64), which showed higher therapeutic index than nevirapine, was assessed using molecular docking.",0.3817600773382021
+931,g198m8rr,8675,drug,"Currently, no drug has been clinically approved to control MERS-CoV infection.",0.3817226939915381
+409,0hq2co6n,15639,drug,The sample preparation consists of a solid-phase extraction step on an MCX cartridge.,0.38171038632614873
+662,p6d0nx01,16894,drug,"Previously, we showed that the administration of CC-3052, a phosphodiesterase-4 inhibitor (PDE4i), reduced the host inflammatory response during Mycobacterium tuberculosis (Mtb) infection and improved the antimicrobial efficacy of isoniazid (INH) in both the mouse and rabbit models.",0.3816954909924843
+636,evk00ab3,23073,drug,"In conclusion, pandemic influenza A can cause significant direct and indirect effects in SOTR, especially in the early post-transplant period, and should be treated early.",0.38164905925667597
+748,q69f57el,25711,drug,Amino acid-based drugs are a group of biologic-based therapeutics that can effectively combat the diseases caused by drug resistance or molecular deficiency.,0.38164225454576045
+654,hylxi96f,427,drug,"Finally, mutational analysis demonstrated that V37A but not S195R conferred resistance against MDL28170 and other CatB/CatL inhibitors.",0.3816248277770399
+784,ua22udlc,8087,drug,"  This chapter discusses the adverse effects of antiviral drugs used against cytomegalovirus, herpesviruses, hepatitis viruses, against HIV, and against influenza viruses.",0.38162389324750734
+711,jsez2yrs,14925,drug,"Human endothelial cells treated with archazolid showed an increased adhesion of tumor cells, whereas the transendothelial migration of tumor cells was reduced.",0.38161887039731673
+883,j3r0y194,12931,drug,This study provides evidence supporting the use of GA as a potential therapeutic agent for the treatment of neurodegenerative diseases and neuronal injury.,0.3816093717928641
+649,b4mdiont,182,drug,"Drug repurposing, represented as an effective drug discovery strategy from existing drugs, could shorten the time and reduce the cost compared to de novo drug discovery.",0.3816019608598435
+713,p7rg9ifo,22533,drug,: The efficacy and safety evidence of bortezomib in multiple myeloma (MM) patients with hepatitis B is vacant.,0.3815636218672818
+762,vz1tfnus,2970,drug,We review available data from preclinical and clinical studies of combination antiviral therapy and of combined antiviral-immunomodulator therapy for influenza.,0.38153903076625323
+593,g4omlaht,17295,drug,"It was found that after a preliminary screening as cysteine protease inhibitors, chalconesemicarbazones were better inhibitors to these cysteine proteases than diarylpyrazolines followed by chalcones.",0.3815039254384322
+641,tph5n7ak,3126,drug,We found that antiviral treatment led to full recovery of cats when treatment was started at a stage of disease that would be otherwise fatal if left untreated.,0.381486824176938
+626,12j8i9j6,8192,drug,The findings show that cocaine's effects on synaptic concentrations for DA and for HT in accumbens are dependent on neuronal impulse flow.,0.3814788961919377
+570,ps49oh7h,6181,drug,"Lycorine, a natural alkaloid extracted from Amaryllidaceae, exhibited anti-leukemia effects in vitro and in vivo.",0.3814070800704746
+879,ihj102hi,11458,drug,"Therefore, it is necessary to develop antiviral drugs against type I FCoV infection.",0.3813715211358131
+849,9lkd4o3l,6387,drug,"We discovered two antiviral drug combinations act on distinct signaling pathways, either STAT1 or S6 phosphorylation, to block HSV-1 infection.",0.3813586413378771
+575,l44rupmi,16674,drug,"It is advocated that, in future clinical trials of cancer therapy, the cancer specimens of each participant should be tested for currently available predictor genomic signatures, so that the most effective treatment with the least adverse effects for each patient can be identified.",0.381292865458739
+704,04xr5xdl,23548,drug,Target compounds were evaluated for their anticancer activity in vitro within DTP NCI protocol.,0.3812736755030891
+844,oez3l9kn,3304,drug,"While currently approved drugs are effective in controlling HIV-1 infections, new drug targets and agents are needed due to the eventual emergence of drug resistant strains and drug toxicity.",0.3812721311171619
+27,7nmaf6u0,12292,drug,MATERIALS AND METHODS: Randomized clinical trial.,0.38126287509636425
+608,4qghavpi,20731,drug,The patient was found to have APOL1 G1 and G2 risk variants.,0.3812599537035387
+648,9pn3bnee,12505,drug,Cortex phellodendri is used to reduce fever and remove dampness and toxin.,0.38124026445886633
+572,61t4e1eg,5097,drug,Emerging evidence suggests that dipeptidyl peptidase-4 (DPP-4) inhibitors used to treat type 2 diabetes may have nephroprotective effects beyond the reduced renal risk conferred by glycemic control.,0.38123555957013716
+515,6qoksn00,12663,drug,In vitro binding studies indicated that aa 148–294 of N and aa 118–188 of NPM1 were required for binding.,0.38120771952110005
+751,j7fx64k1,17923,drug,Immunocytochemistry confirmed the osteoclast targeting potential of the antibody.,0.3811984634846674
+502,aiyg061l,4006,drug,Long-term success of an antiviral therapeutic is determined not only by its efficacy but also by the duration of time required for drug-resistance to evolve.,0.38113352704640696
+492,aiyg061l,4010,drug,"Single-cell analysis of antiviral candidates reveals not only efficacy but also properties of the members of the viral population most sensitive to the drug, the stage of the lifecycle most affected by the drug, and perhaps even if the drug targets an interaction of the virus with its host.",0.38111938239335774
+642,zon3ogfe,17453,drug,The therapeutic usefulness of PGs in clinical practice is critically analyzed on the basis of available evidence in patients with fulminant hepatic failure and primary graft nonfunction following liver transplantation.,0.3810688215112082
+576,8qmm440d,13133,drug,"The benefit of anti-infective drug delivery via inhalation is that it affords delivery of sufficient therapeutic dosages directly to the primary site of infection, while minimizing the risks of systemic toxicity or avoiding potential suboptimal pharmacokinetics/pharmacodynamics associated with systemic drug exposure.",0.38104420378316756
+418,zisiyyrf,6341,drug,"A compilation of current literature strongly suggests that to slow the development of resistance to antimicrobial agents it is optimal to use drugs with more than one mechanism of action or target, to prescribe those with demonstrated ability to minimise or reverse resistance problems, and to avoid underdosing of potent antibiotics.",0.3810352622341199
+454,p1ajw8mq,25570,drug,"Fifty-two patients (33.5%) were treated with systemic corticosteroids, with a median daily dose of 80 mg. Twenty-seven patients (17.4%) died during hospital stay.",0.38101068208517574
+592,ia3zu7yf,2381,drug,The primary outcome was the proportion of patients who received antibiotics while hospitalised (up to 30 days).,0.3809820327604769
+180,7yp7km05,20741,drug,Liu et al.,0.38094224057868065
+816,d4qcckh1,757,drug,"The first small molecule inhibitor of Hepatitis C Virus (HCV), the NS3 protease inhibitor BILN-2061, entered phase 2 clinical trials, producing a striking reduction in viral load in treated individuals.",0.3809210624972044
+638,vjl43cgk,19697,drug,When used in short (5-day) treatment they reduce the bacterial load in a higher proportion than is achieved by βlactam or macrolide antibiotics given orally.,0.3809203228661726
+873,na4y4n9u,17913,drug,"Likewise, the replication of various nidoviruses was reported to depend on Cyps or other PPIases.",0.38091681088911283
+601,n5adf3tj,23563,drug,Survival was significantly improved in CXCL10 knockout (CXCL10KO) mice and mice treated with anti-CXCL10 IgG compared to controls.,0.38091305037386886
+557,2meva8p8,4833,drug,The effect was observed both in THP-1 macrophages and human primary peripheral blood monocytes.,0.38090874704477745
+933,84u3c33m,20228,drug,Our results suggest that escin derivatives showed strong inhibitory activities on PEDV replication with lowered cytotoxicity.,0.3808178149617759
+697,tilwqk15,13802,drug,"To avoid this problem, an alternative therapeutic strategy relies on the identification and use of compounds that disrupt specific protein-protein interactions involved in androgen withdrawal.",0.3808009805904437
+797,odl5p8i4,11967,drug,"Here we analyzed the effects of apilimod, a PIKfyve inhibitor that was reported to be well tolerated in humans in phase 2 clinical trials, for its effects on entry and infection of EBOV and Marburg virus (MARV).",0.3808008101991724
+881,19qg6uji,13248,drug,Our findings on effects of HIV-1 integrase are reported in the subsequent article.,0.38079262532578406
+712,2q54x2b0,13378,drug,"Unfortunately, the majority of patients treated with AIs eventually develop resistance, inevitably resulting in patient relapse and, ultimately, death.",0.38077694970671566
+865,7jszm1nd,20715,drug,These findings indicate that the block to noroviral replication in cultured cells lies elsewhere.,0.3807766463206464
+108,hr3axt89,8134,drug,Shocking effects of endothelial bradykinin B1 receptors,0.3807601672089609
+446,ldoqyqlg,5177,drug,"In this Debate, Nicholas White argues that such dosing is inadequate, Robert Webster and Elena Govorkova say that combination antiviral therapy should be used, and Tim Uyeki reminds us that clinical care of patients with H5N1 entails much more than antiviral treatment.",0.3807162516622742
+753,1irvzt8v,7228,drug,The cyclic voltammetry experiments suggest that ATA reacts remarkably strongly with molecular oxygen.,0.38067769407907126
+752,03id5o2g,3172,drug,"Inhibitors of SKP2 not only enhance autophagy but also reduce the replication of MERS-CoV up to 28,000-fold.",0.3806688961227201
+623,dydz2zcc,14022,drug,"Moreover, the effect on these evaluated parameters was not different in IL-1β(-/-) and wild-type mice treated with an NLRP3 inflammasome inhibitor.",0.380662226588306
+884,99j1u5ar,21600,drug,"Moreover, daily single-dose STE treatment significantly improved the survival of EV71-infected mice, and ameliorated the symptoms.",0.38065969167371805
+749,5fkwr60m,21515,drug,The subject of Chapter 690 is Pestivirus NS2-3/NS3 Serine Peptidase.,0.3806555179412312
+812,eyl80n5o,14326,drug,Viruses also directly elicit the UPR to enhance their replication.,0.3806241580920718
+743,l7kaj498,21914,drug,"Among them, the IL1RL1 mRNA was tested in plasma samples taken from 37 women.",0.38060061063110967
+823,0nm7wgf5,4473,drug,We took the approach of repositioning approved drugs for anti-dengue virus activity by screening a library of pharmacologically active compounds.,0.3805854505146104
+736,mfy5ln8w,4581,drug,The derivatives were initially designed and screened in silico by molecular docking studies against papain to explore the possible mode of action.,0.3805756272901743
+586,13amcxh2,9366,drug,METHODS: Human chronic myelocytic leukemia cells K562 were treated with lycorine.,0.3805649198427502
+826,5rsk6g7l,20803,drug,The current therapy options are limited to the unspecific antivirals Ribavirin (RBV) and pegylated Interferon-α (pegIFN-α).,0.3805601248753446
+858,2w6vgd92,4767,drug,"In this report, evidence is presented that HIV-1 protease inhibitors (PIs) currently used in anti-HIV-1 therapies might exert some effects on SARS and perhaps, on avian influenza.",0.3805308134129017
+468,drfd5o9k,16845,drug,Neonatal foals and hyperimmunized egg protein—A viable therapy?,0.380529394199795
+716,f089bs8r,19994,drug,These medications are approved by the Food and Drug Administration (FDA) for the treatment of other diseases.,0.3805018940637108
+770,thkzoirr,22385,drug,"Hence, physicians should fully inform patients with all controversial information about the effectiveness of glucosamine when prescribing glucosamine for patients with osteoarthritis.",0.380494099636914
+660,7vwpvcdd,25211,drug,"For the test set, the top 20 compounds according to conventional consensus scoring were experimentally tested, no inhibitor was found.",0.38048145468894884
+417,qn0jfynh,7760,drug,"Cells were treated with LPS/IFN, calpain inhibitors (carbobenzoxy-valinyl-phenylalaninal (zVF), PD150606), cycloheximide and COX inhibitors to determine the effect of PIN1 depletion on COX-2 and calpain.",0.38047256370436777
+620,35k4065e,7197,drug,Resistance selection showed that the lead SMCypI hardly selected amino acid substitutions conferring low-level or no resistance in vitro.,0.38046890914151504
+699,mivxm8oh,20246,drug,"Efforts should be made to evaluate the most promising treatments and vaccines in controlled clinical trials, should another SARS outbreak occur.",0.3804676460369916
+916,eveoz2ho,24040,drug,These data implied that amiloride could be a promising candidate for further research as a potential antiviral drug against FMDV infection.,0.38046658973998515
+583,npx4b5fh,16852,drug,Repurposing paclitaxel for the treatment of fibrosis: indication discovery for existing drugs,0.38045456284194196
+634,wicc796j,15006,drug,Randomized clinical trials are needed and potential therapies should be evaluated only in such clinical trials.,0.38044129499077184
+726,9689qoz9,8984,drug,Treatment with HHT at doses of 0.05 or 0.2 mg/kg significantly reduced viral load and relieved severe symptoms in PEDV- or NDV-infected animals.,0.3804220438066554
+30,jfnj6l41,18445,drug,both in vitro and in vivo.,0.38036428981389425
+731,xoeoka3h,1561,drug,"The use of a pan-caspase inhibitor resulted in the inhibition of PDCoV-induced apoptosis and reduction of PDCoV replication, suggestive of the association of a caspase-dependent pathway.",0.38033436281765004
+578,qfphvgg6,20525,drug,"The in vitro results also proved that LPS increased nitric oxide and pro-inflammatory cytokines (TNF-α, interleukin-6, and interleukin-1β) production, and HCP antagonized these effects of LPS.",0.3803244051058791
+573,sz9qt9vi,13478,drug,"However, translation of the experimental results into the clinical practice requires prudence and great caution.",0.3803165782099416
+571,putf9vjh,1196,drug,"After 48h of treatment, the inhibitor exhibited a dose-dependent antileishmanial activity, with a 50% lethal dose (LD50) of 23.3μM.",0.38028246047530107
+754,n1j5hzft,18730,drug,Pharmacological inhibitors of TLR4 (E5564) exerted similar effects like those determined for NAC in H9N2 swine influenza virus-infected mice.,0.38027865518629506
+672,7xj27r98,12835,drug,"Dewaxing of tissue sections had no effect on the yield and quality of RNA extractions, and further purification of the extracts using gel filtration did not improve the results.",0.38021800192136723
+622,gii0ilq1,14446,drug," A target-free approach was applied to discover anti-influenza viral compounds, where influenza infected Madin–Darby canine kidney cells were treated 7500 different small organic chemicals individually and reduction of virus-induced cytopathic effect was measured.",0.38020674519717007
+186,h97dui9n,5015,drug,"Updates were presented on several influenza antivirals including baloxavir, CC-42344, VIS410, immunoglobulin, immune plasma, MHAA4549A, pimodivir (JNJ-63623872), umifenovir, and HA minibinders; RSV antivirals including presatovir (GS-5806), ziresovir (AK0529), lumicitabine (ALS-008176), JNJ-53718678, JNJ-64417184, and EDP-938; broad spectrum antivirals such as favipiravir, VH244, remdesivir, and EIDD-1931/EIDD-2801; and host directed strategies including nitazoxanide, eritoran, and diltiazem.",0.3802057768196271
+739,0hq2co6n,15644,drug,"A validation study according to EC requirements was carried out, in which the method showed good performance.",0.38019163857050553
+628,31e2db0z,22630,drug,Compound 5i also showed protection against MES screening at the dose of 100mg/kg.,0.38017869012328304
+806,qfphvgg6,20527,drug,"Conclusion These results indicate that HCP may alleviate LPS induced lung inflammatory injury, which may be associated with its inhibitory effect on the over activation of complement and macrophages.",0.3801715315111526
+864,0ozhye9q,21500,drug,Such effects may be mediated by the transcription factor HBP1.,0.3800795059561732
+796,d8p7mgqt,6860,drug,"As three of the five hit drugs were calcium inhibitors, additional types of calcium inhibitors that confirmed that calcium is essential for JEV infection, most likely during viral replication, were utilized.",0.3800672108835186
+393,9lw756zk,4873,drug,"The complex structures reveal two major inhibition modes: Hg2+-PMA is coordinated to C44, M49 and Y54 with a square planar geometry at the S3 pocket, whereas each Zn2+ of the four zinc-inhibitors is tetrahedrally coordinated to the H41–C145 catalytic dyad.",0.38005405151842053
+908,797781dl,2417,drug,"Furthermore, our evidence showed that miR‐127‐5p did not affect postentry viral replication.",0.38003358265489134
+645,h8zqis1p,15315,drug,"The limited catalog of specific treatment, highlight the necessity to look for additional therapeutic solutions.",0.3800189157521199
+341,79v77hqm,9890,drug,"The clinical profile of emtricitabine discussed in this chapter demonstrated (1) a plasma half-life of 8-10 hours with linear kinetics, (2) an intracellular emtricitabine 5’-triphosphate half-life greater than 39 hours that supports daily dosing, (3) no significant drug–drug interactions that limits the use of emtricitabine in combination therapy, (4) comparable safety and efficacy to lamivudine, and (5) low incidence of Ml84V mutations.",0.380016502811803
+719,2jr07rgj,8850,drug,The viral solutions were exposed on glass samples uniformly loaded with copper and silver compounds.,0.38001311308184477
+663,tkw258dc,22048,drug,CONCLUSIONS AND RELEVANCE: GS-441524 was shown to be a safe and effective treatment for FIP.,0.3799975555186382
+872,zgdbvfi4,21,drug,"However, there is no approved drug to treat the disease.",0.3799912120302135
+875,4km8usn6,22164,drug,Antiviral activities and acceptable cytotoxicity profiles suggest that arbidol could be a promising candidate for further investigation as a potential therapeutic agent in selective treatment of flaviviral infections.,0.379986393541162
+717,h9bzx8un,11356,drug,"Therefore, searching for more effective compounds to reduce the toxicity of treatments, while still producing similar effects as current chemotherapy regimens, is required.",0.37987419315415794
+921,ekjbxyfy,1438,drug,We also demonstrate herein in vivo efficacy of an inhibitor using the murine model of norovirus infection.,0.37986120159798803
+378,xndjru4d,6281,drug,Pre-treatment with Ang (1-7) alleviated these effects and treatment with A779 [antagonist of Ang (1-7)] prevented the effects of Ang (1-7).,0.37978625734065147
+761,p6d0nx01,16897,drug,"Consistent with the reduction in inflammation, a significant improvement in Mtb control and pathology was observed in the lungs of mice treated with CC-11050 plus INH, compared to INH alone.",0.37976149452130203
+727,dt5zvebj,16549,drug,This results in a life-threatening disease that is frequently treated with the surgical removal of diseased and dead tissues.,0.379726976560479
+782,pgzogpa2,684,drug,The inhibitors were synthesized in four steps from commercially available compounds.,0.37971103265419043
+527,mjkixqhs,22920,drug,Statistical analysis was carried out to analyse the data obtained.,0.37962542390575643
+856,smikf6vx,7678,drug,"This potent and selective compound, with good bioavailability, demonstrated protective anti-viral efficacy in a Tacaribe mouse challenge model.",0.3796231654299985
+795,p1fttfpr,14611,drug,The subject of Chapter 494 is Coronavirus papain-like endopeptidases.,0.3795676295028888
+861,vk8wsgq9,9716,drug,High Throughput Virtual Screening and molecular docking studies were employed to find the suitable inhibitors against VP40.,0.37953544232961584
+603,tph5n7ak,3127,drug,"Antiviral treatment was associated with a rapid improvement in fever, ascites, lymphopenia and gross signs of illness and cats returned to normal health within 20 days or less of treatment.",0.37951646533532024
+831,bf4qpsy7,4062,drug,These findings highlight new molecular targets for drug development as well as novel drug combination approaches.,0.3795076543083251
+577,4jslid14,7243,drug,"Recent analysis of the number and sources of antiviral agents reported mainly in the annual reports of medicinal chemistry from 1984 to 1995 indicated that seven out of ten synthetic agents approved by FDA between 1983-1994, are modeled on a natural product parent.",0.37948699805021624
+852,nb5ad4pw,24325,drug,Viral isolation was performed in Vero cells with trypsin.,0.379462445315714
+698,27gutwjd,18519,drug,"Nanoscale drug delivery systems have the ability to improve the pharmacokinetics and pharmacodynamics of agents, allowing an increase in the biodistribution of therapeutic agents to target organs and resulting in improved efficacy with reduction in drug toxicity.",0.37944771085380513
+892,bkbk7h78,18272,drug,Furthermore simulation of this mechanism in vitro might provide an interesting new therapeutic approach against microorganisms.,0.3794049316047608
+843,cgv6vj03,12425,drug,"These findings suggest that the class of immunostimulatory siRNAs may benefit from activation of certain endosomal immune receptors, such as TLR9, in augmented gene silencing and therapeutic efficacy.",0.37938154270091284
+689,jf4j00bp,7131,drug,The primary outcome was the proportion of antibiotics discontinuation or de-escalation in the ED.,0.3793500988243496
+786,3r5fgeap,11907,drug,We conclude that RSV may exacerbate the progression of hepatitis B and that patients with hepatitis B infection should be cautious taking RSV as a dietary supplement.,0.37933836993602404
+791,y8z8gkpb,17773,drug,Interstitial pneumonitis is a rare adverse event of imatinib therapy.,0.3793320277058164
+778,eg1e8bbg,15075,drug,ISRIB enhances cognitive memory processes and has therapeutic effects in brain-injured mice without displaying overt side effects.,0.37930621668893155
+825,4xwh2axk,9066,drug,"In vivo, HEV RNA levels rapidly declined in the feces of treated mice while no effect was observed in the vehicle treated control animals.",0.37928998756338983
+798,wx06intu,1175,drug,Conclusion Beriate® P has an excellent efficacy and safety profile.,0.37926992968247447
+539,oz7hras7,18383,drug,"As provided, clomiphene is, approximately, a 60:40 mixture of two stereoisomers, enclomiphene and zuclomiphene.",0.3792225429930353
+728,l93978vq,21354,drug,"These results demonstrate the value of testing drugs in primary cells, in addition to established cell lines, before initiating preclinical or clinical studies for MERS treatment and the importance of carefully assessing cytotoxicity in drug screen assays.",0.3792131652476768
+640,0mjizsoo,10029,drug,Docetaxel treatment of the resistant A2780DXL cells and carboplatin treatment of the A2780CBN cells did not result in RNA disruption.,0.3792086128446072
+982,4bripmvh,11017,drug,"Here, we have reconstituted complete SARS-CoV mRNA cap methylation in vitro.",0.37920860505526016
+733,sbf9qi6g,22233,drug,"In this study, we report a US Food and Drug Admistration-approved drug that is safe for pediatric use.",0.3791621283815827
+815,5pho1vgo,776,drug,"RESULTS: In in vitro and in vivo analyses, our results confirm that HIV infection activates stress-response components and that ARV therapy contributes to changes in the UPR’s activation profile.",0.37916182832171524
+772,0czu600e,10145,drug,"Among them, calcium channel blockers are promising because in addition to their efficacy in vitro and in vivo, retrospective clinical data have indicated that nifedipine, one of the calcium channel blockers, reduced the case fatality rate by >5-fold.",0.3791566443147915
+696,wx06intu,1171,drug,Materials and methods We analysed the efficacy and safety of Beriate® P in the clinical setting from 1996 to 2005 with a focus on surgical patients.,0.3791000812303582
+651,bgt7n2pq,15786,drug,"To better understand the effect of price adjustments on physician choice, this study used renin-angiotensin drugs (including angiotensin-converting enzyme inhibitors [ACEIs] and angiotensin receptor blockers [ARBs]) to examine the impact of price adjustments on utilization of and expenditures on patented and off-patent drugs with the same therapeutic indication.",0.3790588007201129
+829,w59fu9c9,17945,drug,"For patients with negative diagnostic results, the diagnosis of noninfectious diarrhea may be considered.",0.3790429750466879
+805,jps5pj7x,1933,drug,CONCLUSION/SIGNIFICANCE: These findings imply its potential as a therapeutic agent for intervention of cancer and other furin-associated diseases.,0.37899621885796186
+785,rj3bk0y5,17653,drug,Our results suggest that EPF might be a potential natural candidate for the treatment and/or prevention of overweight and hepatic and metabolic-related alterations induced by HFD.,0.3789366619754936
+747,cqbayzat,967,drug,It is an attractive approach to find new uses for old drugs as they have already been through extensive clinical testing and could easily be accelerated for clinical approval.,0.3789072113918243
+821,96t8ws6q,11504,drug,This might suggest that Tf-EE exhibited anti-inflammatory effects through Src-targeted inhibition of NF-κB.,0.3788962712203066
+906,ajkhpw5f,21806,drug,"Finally, we show that a minimal ROD-1-Zw10 complex efficiently oligomerizes into filaments in vitro.",0.3788775151937637
+759,wbfnhedy,15040,drug,Decreased binding of rhodopsin to RCA was observed following intravitreal injection of castanospermine but not swainsonine.,0.378771206073937
+597,a5wlqvsd,24963,drug,"Thus, phytochemicals with antiviral potentials need to be studied in depth with standardization, chemical isolation, effectivity, molecular mechanism, along with in vivo toxicity and efficacy to reduce cost and time.",0.3787403579760912
+653,elom30nx,3074,drug,Vaccines are prophylaxis mainstays but are limited in efficacy due to the difficulty in matching predicted dominant viral strains to circulating strains.,0.3786067490285549
+962,9p0dr7rl,18051,drug,Many scientists doubt the effectiveness of these agents.,0.37854365095970405
+862,bgt7n2pq,15799,drug,Policy makers should reconsider the appropriateness of the current adjustment strategies applied to patented and off-patent drugs.,0.37850904611523545
+836,1jzsci7a,1669,drug,The subject of Chapter 540 is Hepatitis A Virus Picornain 3C.,0.37850008833808607
+618,h3owwjao,11272,drug,Numbers of platelet- or leukocyte-derived MV did not increase within one hour following in vitro exposure of blood to LPS.,0.37847835922025347
+880,wd5bzsol,537,drug,"Four SARS-CoV PLpro lead inhibitors were tested against MERS-CoV PLpro, none of which were effective against MERS-CoV PLpro.",0.37846374183507653
+855,sr4ap98j,25582,drug,"Ce-Cyd should be further pursued, as such and in combination with OMP decarboxylase inhibitors, for its therapeutic potential in the treatment of both viral and neoplastic diseases.",0.3784569522928462
+730,dcll52nd,3375,drug,"New inhibitors of topoisomerases I and II such as chimmitecan and salvicine are described in detail regarding to their chemistry, antitumor activity, mechanism of action, and clinical trial.",0.3784274186535375
+750,kbk9c5ck,17176,drug,"Nearly all were prescribed antibiotics during their hospitalization, less than 1% were prescribed oseltamivir, and 28% were prescribed corticosteroids.",0.37841881901855773
+841,zgdbvfi4,24,drug,"Based on the docking score and the 3D similarity of the binding mode to the known Mpro ligands, 4 drugs were selected for binding free energy calculations.",0.37841682724481235
+710,0s2rx3gc,15207,drug,"The PLC treatment also reduced the apparent HI titres in some sera containing variable amounts of CF and/or HIG antibodies, but did not affect antibody determinations by the two latter methods.",0.3784158885064896
+799,ntsn7oga,7565,drug,The subject of Chapter 642 is Coagulation Factor Xa.,0.378410599794724
+898,j33faib3,3986,drug,"Moreover, the impact of these inhibitors is exacerbated in the absence of exogenous glucose, which is otherwise dispensable for infection.",0.3784099501224618
+783,5oge12e4,7741,drug,The prophylactic/therapeutic treatment was started 4h before inoculation of the lambs with oocysts and was continued for eight consecutive days.,0.3783877678347875
+87,ij5sr88p,1945,drug,"In this issue of Chemistry & Biology, Wu et al.",0.37835776965558837
+476,t4eb24fv,24097,drug,"Four patients (8.3%) experienced treatment-related mortality from overwhelming infection, of which 3 had SCNSL Conclusion High-dose chemotherapy and autologous stem cell transplant using TBC conditioning for both PCNSL and secondary CNS non-Hodgkin lymphoma appears to have encouraging long term efficacy with manageable side effects.",0.3783410721437506
+804,3frxd1c1,23266,drug,"Current treatment regimens include immunosuppression, immune modulation, chemotherapy, and biological response modification, followed by hematopoietic stem-cell transplant (bone marrow transplant).",0.37831342193462275
+971,b31ctbat,235,drug,"In addition, a database of 78 commonly used anti-viral drugs including those currently on the market and undergoing clinical trials for SARS-CoV-2 was constructed.",0.3783131102791508
+903,e14cbd1o,22767,drug,Our results showed that a dose of 50 μg/ml of chloroquine was not toxic to the cells and induced a statistically significant inhibition of virus production in infected Vero cells when compared to untreated cells.,0.37829800768760835
+882,034w5afv,25548,drug,Powder dissolution experiments under non-sink conditions showed similar dissolution profiles for the cocrystals and pure NTZ.,0.3782978454252201
+720,zir02q69,14176,drug,"Control mice had sham laparotomy or injection of IP saline, respectively.",0.3782575626983504
+763,vz1tfnus,2972,drug,Combination therapies with favourable experimental data need to be tested in carefully designed aclinical trials to assess their efficacy.,0.3782528373943053
+756,pbz1aa3a,19305,drug,"However, it is only recently that the first two therapeutic agents isolated from the milk of transgenic animals, C1 inhibitor (Ruconest) and antithrombin (ATryn), appeared on the market.",0.37823241794453544
+398,qhfekfzz,4337,drug,"Following oral administration at 50 mg/kg, bile, plasma, urine and feces were collected, and separated by reversed-phase HPLC after sample preparation by solid-phase extraction.",0.3782247462462974
+978,lc4qvvou,5214,drug,These results validated that Hsp90 is an important host factor for the replication of filoviruses and suggest that Hsp90 inhibitors may be therapeutically effective in treating EBOV infection.,0.3781571539423903
+923,cb0xe1sw,7484,drug,"The clinical application of HIV fusion inhibitor, enfuvirtide (T20), was limited mainly because of its short half-life.",0.37815110095721527
+706,ei2o1srw,23980,drug,"In the results, both groups of chimeras treated with glycyrrhizin resisted a 20 LD(50) dose of P. aeruginosa skin infection, while all chimeras in both groups treated with saline died within 3 days of the infection.",0.3780502398908903
+172,epdoa559,23520,drug,Boursnell et al.,0.3780390813255125
+824,lndcnqfe,16848,drug,"However, due to their poor solubility and low dissolution rate, the clinical applications of TNI, TNIIA, and CPT are limited.",0.37802702671457195
+833,8jl88qg8,22728,drug,"In contrast, NO synthase (NOS) inhibitors reverse such lung injury.",0.37798063850163094
+869,3l9zsz9i,11424,drug,These data suggest that patients with higher levels of inflammation are at an increased risk of osteonecrosis.,0.37797271971072516
+606,l4uo9tn3,21158,drug,"Strengths and limitations of these drugs were evaluated based on whether they have novelty of mechanism, favorable pharmacokinetic/pharmacodynamic profiles, avoidance of interactions and intolerance, simplicity of dosing, and their ability to cope with challenges which was mainly evaluated by the primary and secondary endpoints.",0.37796815602019035
+657,ak22ykbp,1157,drug,"The treatment of cells with pharmacological inhibitors, such as nonsteroidal anti-inflammatory drugs or small interfering RNAs (siRNAs) against COX-1 and COX-2, significantly reduced PGE(2) production, as well as PSaV replication.",0.3779481031938884
+837,p11zya6t,7456,drug,Overexpression of TRIM52 restricted JEV replication in BHK-21 and 293T cells.,0.3779403788222513
+800,wt2gctys,16014,drug,"Using specific inhibitors of PI3K-AKT, MEK-ERK and NF-κB, the results suggested that only PI3K-AKT inhibition is positively involved in curcumin-inhibited HCV replication.",0.3779340431419044
+868,nadhhe5k,4682,drug,Finding new therapeutic targets and drugs is therefore crucial.,0.3779112474563056
+929,c7av3xql,12059,drug,A cocktail of multivalent oligosaccharides based on the minimal binding structures of identified adhesins would offer the best candidates for anti-adhesion therapy.,0.37789956939124175
+669,7755cxfk,24139,drug,Aged rats underwent a unilateral distal permanent middle cerebral artery occlusion and one week later were treated with an anti-Nogo-A or control antibody.,0.37780154550509554
+757,d2dr0puc,17445,drug,"Propranolol and timolol, β 1/β 2-adrenergic receptor antagonists were not effective and the cholinergic receptor antagonist, atropine, was effective in only slightly reducing amylase secretion but not lingual lipase.",0.37775571065291175
+913,ge3bbetg,19663,drug,All tests for possible infectious pathologies provided negative results.,0.3777044441641631
+801,9ukf9vpg,17,drug,The drug targets are members of the numb-associated kinase (NAK) family—including AAK1 and GAK—the inhibition of which has been shown to reduce viral infection in vitro.,0.37770201859558217
+788,0cxdtr7r,10928,drug,"IFN-γ treatment did not change the amount of NOS-1 detectable by Western blot, when PIN is diminished by RNAi treatment.",0.3776898123293005
+818,mx6i2781,15762,drug,Tunel test of lung tissues present that DNA damage reached a high level but reduced substantially when treated with Se@RBV.,0.3776502603431432
+860,s7w70kqy,17794,drug,Inhibition of virus yields was measured by plaque reduction assay and immunohistochemical staining.,0.37764132537732487
+807,n5w88l23,1864,drug,"However, whether the substrates and inhibitors of other cyclic amidohydrolases can inhibit dihydropyrimidinase remains unclear.",0.3776290576383836
+876,2zvqopyu,3288,drug,"Consequently, less is known about the antiviral effects of ADP-ribosylation.",0.37762848869333515
+842,ge3bbetg,19661,drug,"However, he presented with cough and fever 9 months after treatment initiation.",0.3776051018824642
+832,0hq2co6n,15647,drug,Extraction recovery of ML-7 was 72%.,0.3775744824130649
+848,jhjuoj79,6035,drug,"Furthermore, virus-host models helped to identify drug targets, to predict the treatment duration to achieve cure, and to reduce treatment costs.",0.37756816216630545
+956,5pxat7b4,6901,drug,"Moreover, we found that inhibition of autophagy, either by biochemical reagent and RNA interference, dramatically decreases ChikV replication.",0.37747375384072707
+813,qz2tpmq4,10176,drug,We further examined plasma PI3 levels in 40 patients with ARDS and 23 at-risk control subjects from the same cohort.,0.37743307163464823
+780,0p6x4lwx,16768,drug,"While peptides 264-291 and 297-315, individually failed to inhibit viral infection, when combined, they showed 67% inhibition of HCMV infection at a concentration of 0.125 μM each.",0.3774222860370793
+965,00dxpxox,519,drug,Modern medicinal chemistry approaches are expected to generate improved PLA2 inhibitors as new agents to treat inflammatory diseases.,0.37741928655444973
+810,6qfy7597,15910,drug,Fragment-based drug discovery (FBDD) concerns the screening of low-molecular weight compounds against macromolecular targets of clinical relevance.,0.377395206301653
+952,47srfqzl,3452,drug,"Remarkably, half of the top 30 potential drugs are used clinically to treat cancer, thus partially validating our virtual screen.",0.3773415078832994
+851,bc00vths,8959,drug,"Following treatment with ruxolitinib, we observed improvements of respiratory function including increased forced vital capacity in two patients, with discontinuation of oxygen therapy and resolution of echocardiographic abnormalities in one case.",0.3773033745101719
+175,i938t2wy,16200,drug,Nadarajah et al.,0.37723360982985393
+827,ew4r8f85,1122,drug,"However, inhibiting the downstream targets of PI3K activation, Akt and Rac1, did not block infection.",0.3772174900291346
+941,6ogfukmd,22932,drug,Recent innovations in therapy include modification of antibiotic dosing regimens and use of cephalosporins to improve patient compliance.,0.3771939772701089
+802,r88zb7t4,16866,drug,"However, these therapeutic options have drawbacks, thus the need for an alternative approach.",0.37718770750386
+997,1vxl2468,2239,drug,"Today, small molecule antiviral drugs are available for the treatment of infections with herpesviruses, HIV, HBV and HCV as well as with influenza viruses.",0.3771605299381788
+874,lxup8pr2,6759,drug,"The crude extracts and pure constituents were proven to inhibit tumor growth and ameliorate inflammation, obesity, diabetics, hypertension, and ulcer.",0.37711229314105305
+871,racjw15b,2630,drug,To examine the therapeutic effect of Src inhibitor on the VEGF mediating vascular hyperpermeability and bone destruction within steroid-associated osteonecrotic lesions in rabbits.,0.3771095330220802
+1048,oozejbs9,3245,drug,"In addition, antiviral drugs are particularly valuable in complicated cases of influenza, especially in hospitalized patients.",0.37707742584844517
+774,ke5cjevy,10804,drug,The results in vivo showed that PCV2 replication was significantly increased in serum and tissues of pigs fed 75μg/kg OTA compared with the control group and pigs fed 150μg/kg OTA.,0.37707686350284053
+960,d8p7mgqt,6866,drug,Repurposing of approved drugs would accelerate the development of a therapeutic stratagem.,0.37707555694552086
+538,jzwwses4,23230,drug,"Novel testing must be brought to the clinic with safety and accuracy, but also in a timely and cost-effective manner, so that patients can benefit and laboratories can offer testing consistent with current guidelines.",0.37699051024444374
+1023,xxs7oiwx,16423,drug,"Interestingly, all patients had delayed umbilical cord separation.",0.3769648354717973
+866,t6qr41wc,2364,drug, The therapy for chronic hepatitis C (CH–C) started with interferon (IFN) monotherapy in the early 1990s and this therapy was considered effective in about 10% of cases.,0.3768938448076949
+765,2codll44,23787,drug,"CCR3-siRNA treatments reduced IL-4 stimulated CCL26 release and constitutive CCL24 release by 65% and 80%, respectively.",0.37687721031463417
+1042,xx15qk46,3400,drug,"Finally, we demonstrated that combination treatment with GL augmented IFN-induced reduction of virus in the HCVcc system.",0.376866426974438
+793,ley649ft,15892,drug,Our results showed that desmethylicaritin suppressed the adipogenesis in 3T3-L1 cells in a dose-dependent manner.,0.3768336182558434
+888,gqnzwyn3,15477,drug,A combined ligand and structure based virtual screening was carried out against the Asinex Platinum collection.,0.37682886106930646
+834,h9bzx8un,11363,drug,"Glutamate also enhanced the growth of the SMD1168H; however, the growth effect was not enhanced in SMD1168H-TOPOI treated with glutamate.",0.37676370949857513
