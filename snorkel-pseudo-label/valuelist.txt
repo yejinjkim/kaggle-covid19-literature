@@ -1,8 +1,0 @@
-ritonavir,lopinavir,darunavir,AZT,nelfinavir,TAF,Tenofovir diphosphate,efavirenz,saquinavir,Tenofovir alafenamide,lopinavir/ritonavir
-Sofosbuvir,Sofosbuvir/Velpatasvir,IDX-184,ledipasvir,velpatasvir,sofosbuvir/velpatasvir
-hydroxychloroquine,Hydroxychloroquine,choloroquine/hydrocholoroquine
-mercaptopurine,sirolimus,glucocorticoids
-Alovudine,ribavirin,SARS 3CL protease inhibitors,Oseltamivir
-TH17,IL-6,IL-8,TNFα,hypersensitive c-reactive protein,CRP,interleukin-8,interleukin-6,VEGF,C-reactive protein,IL-10,interleukin-10
-toremifene,dactinomycin
-Angiotensin-converting enzyme 2,ACE2,HR1 domain,S protein,interleukin-2 receptor,Spike protein,SARS-CoV spike protein
