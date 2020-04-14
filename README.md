@@ -4,6 +4,11 @@ Requirements
 ```
 pip install tqdm boto3 requests regex sentencepiece sacremoses
 pip install transformers
+pip install -U git+https://github.com/dgunning/cord19.git
+pip install langdetect
+pip install pandas
+pip install tqdm 
+pip install snorkel
 ```
 
 ![Overview](https://github.com/yejinjkim/kaggle-covid19-literature/blob/master/overview.png)
@@ -14,33 +19,27 @@ pip install transformers
 
 2. Pseudo labelling with keywords and Snorkel (Kanglin, Shana, Qian)
 ```
-./snorkel-pseudo-label/*keywords.csv* #keywords csv files for the 10 questions.
-
-./snorkel-pseudo-label/*code.ipynb* #code for the pseudo label using Snorkel. 
-
-./snorkel-pseudo-label/*pseudo-label.pkl* # estimated pseudo label for each question. pd.Dataframe with columns=['qid','sentence_sha', 'prob']
+./snorkel-pseudo-label/Snorkel_pseudo_label.ipynb* #code for the pseudo label using Snorkel. 
 ```
 3. Retrieve relevant sentences (Kanglin, Yejin)
-
 ```
-./sentence-classification/*code.ipynb* #code for sentence classification to retreive relevant sentences to the question
-
-./sentence-classification/*sentence.pkl* # retrieved sentences for each question. pd.Dataframe with columns=['qid','sentence_sha']
+./sentence-classification/bert_classification.ipynb #code for sentence classification to retreive relevant sentences to the question
+./sentence-classification/evaluation_BERT.ipynb #code for re-ranking sentences based on keywords and reference sentence similarity
 ```
 
-4. Rank the most relevant sentence based on question (Kejing, Tongtong, Yan)
+4. Question-answering (Kejing, Tongtong, Yan)
 ```
 ./question-answering/*code.ipynb* #code for question answering
 
 ./question-answering/*sentence.pkl* #retrived sentence for each question. pd.Dataframe with columns=['qid', 'sentence_sha', 'rank']
 ```
 
-5. Human expert validate each sentence (Yimeng, Kendall). 1 if valid; 0 if maybe; -1 if irrelevant)
+5. Visualization (Yimeng, Kendall)
 ```
 ./human-correction/*code.ipynb* #qgrid visualization code
 
-./human-correction/*sentence.pkl* #human-valided sentence for each question. pd.Dataframe with columns=['qid', 'sentence_sha', 'valid']
 ```
+
 
 
 10 questions are listed in [here](https://docs.google.com/document/d/10B_VkqxDyjxjJWvS5C-q4V7p3c1F-HuLOxiu_vlWtb8/edit#)
