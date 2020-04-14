@@ -1,1 +1,0 @@
-yellow fever,smallpox,influenza a,influenza b,poliovirus,measles,mumps,rubella,rabies,adenovirus,hepatitis b,japanese encephalitis,hepatitis a,varicella,rotavirus,human papillomavirus,Influenza,Respiratory syncytial virus,coronavirus,dengue virus',ZIKV
