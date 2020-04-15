@@ -1,0 +1,1 @@
+booster vaccination,neutralising antibody,ad5-sars-cov vector,neutralising response,spike protein,Nucleocapsid Protein,memebrane protein,recombinant adenoviral vector,sars-cov-specific,vaccine-induced response,serum protein,immunogenicity,receptor
